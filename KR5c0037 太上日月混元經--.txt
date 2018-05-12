@@ -1,5 +1,5 @@
 #+TITLE: 太上日月混元經--
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0037 master e82ef962                
 二經同卷女四
 　太上日月混元經

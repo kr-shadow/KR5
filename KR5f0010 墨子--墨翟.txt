@@ -1,5 +1,5 @@
 #+TITLE: 墨子--墨翟
-#+DATE: 2016-06-11 12:27:19
+#+DATE: 2018-05-12 10:22:08
 #+SOURCE: github.com/kanripo/KR5f0010 master 8048faa3                
 墨子卷之一沛一
 　　　親士第一

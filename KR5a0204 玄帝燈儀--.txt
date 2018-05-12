@@ -1,5 +1,5 @@
 #+TITLE: 玄帝燈儀--
-#+DATE: 2016-06-11 12:26:50
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0204 master 16b0af69                
 玄帝燈儀法事如式
 臣聞應化無窮常處玄都之金闕本形不動

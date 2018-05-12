@@ -1,5 +1,5 @@
 #+TITLE: 三十六水法--
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0330 master e1b96f58                
 二篇同卷如九
 　三十六水法

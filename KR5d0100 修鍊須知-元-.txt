@@ -1,5 +1,5 @@
 #+TITLE: 修鍊須知-元-
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0100 master 2f39efd6                
 修煉須知唱四
 　　　運火行持

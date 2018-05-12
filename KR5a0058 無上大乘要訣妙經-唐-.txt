@@ -1,5 +1,5 @@
 #+TITLE: 無上大乘要訣妙經-唐-
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0058 master aa8bdd2c                
 無上大乗要訣妙經宿四
 爾時

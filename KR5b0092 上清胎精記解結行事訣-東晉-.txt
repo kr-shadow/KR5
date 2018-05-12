@@ -1,5 +1,5 @@
 #+TITLE: 上清胎精記解結行事訣-東晉-
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:42
 #+SOURCE: github.com/kanripo/KR5b0092 master bc804bbd                
 二經同卷位三
 　上清胎精記解結行事訣

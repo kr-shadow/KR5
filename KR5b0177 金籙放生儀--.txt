@@ -1,5 +1,5 @@
 #+TITLE: 金籙放生儀--
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0177 master dc59545b                
 金籙放生儀
 　　　淨穢

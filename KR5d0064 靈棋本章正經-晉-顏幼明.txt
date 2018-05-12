@@ -1,5 +1,5 @@
 #+TITLE: 靈棋本章正經-晉-顏幼明
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:03
 #+SOURCE: github.com/kanripo/KR5d0064 master bbddc0df                
 靈棊經序貴五
 夫靈棊經者不知其所起或云漢武帝命東

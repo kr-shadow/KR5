@@ -1,5 +1,5 @@
 #+TITLE: 神仙鍊丹點鑄三元寶照法--
-#+DATE: 2016-06-11 12:27:09
+#+DATE: 2018-05-12 10:21:57
 #+SOURCE: github.com/kanripo/KR5c0260 master 681fc4d0                
 二篇同卷薄二
 　神仙錬丹㸃鑄三元寳照法

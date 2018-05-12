@@ -1,5 +1,5 @@
 #+TITLE: 修真精義雜論--司馬承禎
-#+DATE: 2016-06-11 12:26:52
+#+DATE: 2018-05-12 10:21:39
 #+SOURCE: github.com/kanripo/KR5a0289 master 6df7e30d                
 修眞精義雜論　　　　　　　　　芥七
 　　　　天　台　白　雲　子　述

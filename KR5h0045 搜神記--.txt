@@ -1,5 +1,5 @@
 #+TITLE: 搜神記--
-#+DATE: 2016-06-11 12:27:28
+#+DATE: 2018-05-12 10:22:18
 #+SOURCE: github.com/kanripo/KR5h0045 master d272e861                
 引捜神記首高一
 　神何昉乎百物之精乎法施民勞定國□

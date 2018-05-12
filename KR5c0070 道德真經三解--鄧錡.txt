@@ -1,5 +1,5 @@
 #+TITLE: 道德真經三解--鄧錡
-#+DATE: 2016-06-11 12:27:02
+#+DATE: 2018-05-12 10:21:50
 #+SOURCE: github.com/kanripo/KR5c0070 master 9fd2ed69                
 道德眞經三解序改一
 　　　　玉賔子鄧錡撰

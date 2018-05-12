@@ -1,5 +1,5 @@
 #+TITLE: 南華真經拾遺--王雱
-#+DATE: 2016-06-11 12:27:06
+#+DATE: 2018-05-12 10:21:54
 #+SOURCE: github.com/kanripo/KR5c0137 master 822b16d8                
 南華眞經拾遺積十一
 　　　宋王元澤集

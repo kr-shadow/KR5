@@ -1,5 +1,5 @@
 #+TITLE: 金丹四百字--張伯瑞
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0104 master 3f76fb32                
 金丹四百字(并序)唱七
 　　　　天台紫陽真人張平叔撰

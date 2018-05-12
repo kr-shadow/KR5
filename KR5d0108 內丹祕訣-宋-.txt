@@ -1,5 +1,5 @@
 #+TITLE: 內丹祕訣-宋-
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0108 master 3f724406                
 二篇同卷唱十
 　内丹秘訣

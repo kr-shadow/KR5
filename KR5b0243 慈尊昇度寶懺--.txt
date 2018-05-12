@@ -1,5 +1,5 @@
 #+TITLE: 慈尊昇度寶懺--
-#+DATE: 2016-06-11 12:26:59
+#+DATE: 2018-05-12 10:21:47
 #+SOURCE: github.com/kanripo/KR5b0243 master 0ea65c48                
 慈尊昇度寳懴
 　　　法事如式

@@ -1,5 +1,5 @@
 #+TITLE: 高上玉皇本行集經(一)--
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:33
 #+SOURCE: github.com/kanripo/KR5a0010 master a39ca8a6                
 高上玉皇本行集經卷上盈一
 　　　清微天宮神通品第一

@@ -1,5 +1,5 @@
 #+TITLE: 雲宮法語--汪可孫
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:03
 #+SOURCE: github.com/kanripo/KR5d0072 master b605b4b3                
 雲宫法語序别九
 萬形皆有弊惟道獨不朽人之在天地間斯

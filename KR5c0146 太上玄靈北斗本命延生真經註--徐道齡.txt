@@ -1,5 +1,5 @@
 #+TITLE: 太上玄靈北斗本命延生真經註--徐道齡
-#+DATE: 2016-06-11 12:27:07
+#+DATE: 2018-05-12 10:21:55
 #+SOURCE: github.com/kanripo/KR5c0146 master de0af7cb                
 北斗經題辭寸一
 　題辭一章乃梓潼帝君之所作也其文備

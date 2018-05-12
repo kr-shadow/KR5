@@ -1,5 +1,5 @@
 #+TITLE: 太上靈寶玉匱明真大齋懺方儀--
-#+DATE: 2016-06-11 12:26:59
+#+DATE: 2018-05-12 10:21:46
 #+SOURCE: github.com/kanripo/KR5b0223 master f47e69fe                
 太上靈寳玉匱明眞大齋懴方儀
 　　　　廣成先生杜光庭修

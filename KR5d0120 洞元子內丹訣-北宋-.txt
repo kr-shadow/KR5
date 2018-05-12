@@ -1,5 +1,5 @@
 #+TITLE: 洞元子內丹訣-北宋-
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:05
 #+SOURCE: github.com/kanripo/KR5d0120 master 7faf8c1a                
 洞元子内丹訣序婦七
 上古道士得道者百萬其人著書誘善者萬

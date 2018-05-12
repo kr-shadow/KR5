@@ -1,5 +1,5 @@
 #+TITLE: 太清元道真經--
-#+DATE: 2016-06-11 12:27:26
+#+DATE: 2018-05-12 10:22:16
 #+SOURCE: github.com/kanripo/KR5g0232 master 2a712b5b                
 太清元道真經序
 元道者玄元之上道黄老之心秘也元和中

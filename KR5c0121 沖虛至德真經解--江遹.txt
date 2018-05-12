@@ -1,5 +1,5 @@
 #+TITLE: 沖虛至德真經解--江遹
-#+DATE: 2016-06-11 12:27:05
+#+DATE: 2018-05-12 10:21:53
 #+SOURCE: github.com/kanripo/KR5c0121 master b9c6a4fe                
 沖虚至德眞經解卷之一念一
 　　　　宋杭州州學内舍生(臣)江遹進

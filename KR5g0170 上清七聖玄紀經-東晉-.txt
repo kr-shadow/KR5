@@ -1,5 +1,5 @@
 #+TITLE: 上清七聖玄紀經-東晉-
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:15
 #+SOURCE: github.com/kanripo/KR5g0170 master 641fa2ae                
 上清七聖玄紀經
 上清太上大道君傳

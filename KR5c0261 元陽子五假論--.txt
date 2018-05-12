@@ -1,5 +1,5 @@
 #+TITLE: 元陽子五假論--
-#+DATE: 2016-06-11 12:27:09
+#+DATE: 2018-05-12 10:21:57
 #+SOURCE: github.com/kanripo/KR5c0261 master afbeab89                
 元陽子五假論
 夫修身養命學道求仙志人若修行未有功

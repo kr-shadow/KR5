@@ -1,5 +1,5 @@
 #+TITLE: 莊子翼-明-焦竤
-#+DATE: 2016-06-11 12:27:29
+#+DATE: 2018-05-12 10:22:19
 #+SOURCE: github.com/kanripo/KR5h0057 master 3fcdeea1                
 莊子翼卷之一振一
 　內篇

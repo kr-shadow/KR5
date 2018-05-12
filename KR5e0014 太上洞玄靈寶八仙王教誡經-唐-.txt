@@ -1,5 +1,5 @@
 #+TITLE: 太上洞玄靈寶八仙王教誡經-唐-
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:05
 #+SOURCE: github.com/kanripo/KR5e0014 master 1efd434f                
 二經同卷母二
 　太上洞玄靈寳八仙王教誡經

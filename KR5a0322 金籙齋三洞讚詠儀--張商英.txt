@@ -1,5 +1,5 @@
 #+TITLE: 金籙齋三洞讚詠儀--張商英
-#+DATE: 2016-06-11 12:26:53
+#+DATE: 2018-05-12 10:21:40
 #+SOURCE: github.com/kanripo/KR5a0322 master ca7b27bb                
 金籙齋三洞讃詠儀卷上鳥二
 　宋太宗皇帝御製

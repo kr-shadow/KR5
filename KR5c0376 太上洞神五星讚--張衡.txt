@@ -1,5 +1,5 @@
 #+TITLE: 太上洞神五星讚--張衡
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5c0376 master 0ce62849                
 太上洞神五星讚淵二
 　　　　張平子撰

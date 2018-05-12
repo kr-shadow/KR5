@@ -1,5 +1,5 @@
 #+TITLE: 沖虛至德真經義解-宋-徽宗
-#+DATE: 2016-06-11 12:27:05
+#+DATE: 2018-05-12 10:21:53
 #+SOURCE: github.com/kanripo/KR5c0122 master efca2e60                
 沖虚至德眞經義解卷之一作十一
 　　　　宋徽宗皇帝著

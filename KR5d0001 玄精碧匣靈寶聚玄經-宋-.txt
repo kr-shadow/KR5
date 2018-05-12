@@ -1,5 +1,5 @@
 #+TITLE: 玄精碧匣靈寶聚玄經-宋-
-#+DATE: 2016-06-11 12:27:12
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5d0001 master 6334a02d                
 玄精碧匣靈寳聚玄經卷上取一
 　　　赤明開圖部

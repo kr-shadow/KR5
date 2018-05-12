@@ -1,5 +1,5 @@
 #+TITLE: 上清高上玉真眾道綜監寶諱-唐-
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0127 master 12ff8baa                
 上清高上玉眞衆道綜監寳諱
 六甲君諱影元白君諱鵲

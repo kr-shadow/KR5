@@ -1,5 +1,5 @@
 #+TITLE: 還丹顯妙通幽集-北宋-潛真子
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:38
 #+SOURCE: github.com/kanripo/KR5a0238 master 7ece6eda                
 還丹顯妙通幽集序珠八
 凡以丹竈留心黄芽役慮不明鉛汞浪費珠

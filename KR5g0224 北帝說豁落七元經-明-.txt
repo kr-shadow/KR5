@@ -1,5 +1,5 @@
 #+TITLE: 北帝說豁落七元經-明-
-#+DATE: 2016-06-11 12:27:26
+#+DATE: 2018-05-12 10:22:16
 #+SOURCE: github.com/kanripo/KR5g0224 master db445757                
 二經同卷群一
 　北帝說豁落七元經

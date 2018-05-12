@@ -1,5 +1,5 @@
 #+TITLE: 太上修真玄章-元-
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:03
 #+SOURCE: github.com/kanripo/KR5d0066 master 5ffc0828                
 太上修真玄章别一
 　　　一炁化生章第一

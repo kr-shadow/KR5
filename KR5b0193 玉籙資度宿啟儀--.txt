@@ -1,5 +1,5 @@
 #+TITLE: 玉籙資度宿啟儀--
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0193 master 9004dac0                
 三儀同卷率一
 　玉籙資度宿啓儀

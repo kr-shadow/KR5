@@ -1,5 +1,5 @@
 #+TITLE: 齋戒籙--
-#+DATE: 2016-06-11 12:26:56
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0148 master 0c50c9b4                
 齋戒籙弔七
 夫入靖修眞要資齋戒檢口愼過其道漸階

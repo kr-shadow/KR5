@@ -1,5 +1,5 @@
 #+TITLE: 法師選擇記--
-#+DATE: 2016-06-11 12:27:28
+#+DATE: 2018-05-12 10:22:19
 #+SOURCE: github.com/kanripo/KR5h0051 master dd3e3ea9                
 法師選擇記
 貞觀元年正月十五日

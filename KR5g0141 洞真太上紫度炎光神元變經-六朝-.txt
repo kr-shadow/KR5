@@ -1,5 +1,5 @@
 #+TITLE: 洞真太上紫度炎光神元變經-六朝-
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:14
 #+SOURCE: github.com/kanripo/KR5g0141 master fb0e18d3                
 洞真太上紫度炎光神元變經廣三
 　　紫度炎光序

@@ -1,5 +1,5 @@
 #+TITLE: 元始天尊說得道了身經--
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0025 master c5ca0ea8                
 元始天尊說得道了身經
 爾時

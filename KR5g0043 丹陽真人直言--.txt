@@ -1,5 +1,5 @@
 #+TITLE: 丹陽真人直言--
-#+DATE: 2016-06-11 12:27:22
+#+DATE: 2018-05-12 10:22:12
 #+SOURCE: github.com/kanripo/KR5g0043 master 08c754f5                
 丹陽真人直言
 　　　示門人

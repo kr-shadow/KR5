@@ -1,5 +1,5 @@
 #+TITLE: 道德真經新註--李約
-#+DATE: 2016-06-11 12:27:03
+#+DATE: 2018-05-12 10:21:50
 #+SOURCE: github.com/kanripo/KR5c0075 master b9ad9ec4                
 道德眞經新註序能一
 自然之道靜故天地萬物生於其中人爲萬

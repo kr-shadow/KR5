@@ -1,5 +1,5 @@
 #+TITLE: 道教義樞--孟安排
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0031 master c4b2619e                
 道教義樞序諸四
 　　　青溪道士孟安排集

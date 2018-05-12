@@ -1,5 +1,5 @@
 #+TITLE: 漢天師世家--張國祥
-#+DATE: 2016-06-11 12:27:27
+#+DATE: 2018-05-12 10:22:17
 #+SOURCE: github.com/kanripo/KR5h0032 master ba68b99d                
 漢天師世家序壁一
 嗣漢四十二代天師張眞人以世家一卷命

@@ -1,5 +1,5 @@
 #+TITLE: 乾元子三始論--
-#+DATE: 2016-06-11 12:26:52
+#+DATE: 2018-05-12 10:21:39
 #+SOURCE: github.com/kanripo/KR5a0280 master 9ae1a344                
 二篇同卷重九
 　乾元子三始論

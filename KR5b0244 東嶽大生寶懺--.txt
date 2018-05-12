@@ -1,5 +1,5 @@
 #+TITLE: 東嶽大生寶懺--
-#+DATE: 2016-06-11 12:26:59
+#+DATE: 2018-05-12 10:21:47
 #+SOURCE: github.com/kanripo/KR5b0244 master dbec6ec2                
 東嶽大生寳懴被八
 　　　淨天地呪淨壇

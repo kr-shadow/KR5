@@ -1,5 +1,5 @@
 #+TITLE: 太上洞真經洞章符-唐-
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:35
 #+SOURCE: github.com/kanripo/KR5a0085 master 118d4caa                
 太上洞眞經洞章符張七
 

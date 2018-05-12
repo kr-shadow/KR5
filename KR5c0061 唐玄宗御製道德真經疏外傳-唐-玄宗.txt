@@ -1,3 +1,3 @@
 #+TITLE: 唐玄宗御製道德真經疏外傳-唐-玄宗
-#+DATE: 2016-06-11 12:27:02
+#+DATE: 2018-05-12 10:21:50
 #+SOURCE: github.com/kanripo/KR5c0061 master 52c36262                

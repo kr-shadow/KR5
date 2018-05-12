@@ -1,5 +1,5 @@
 #+TITLE: 太白經--
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0334 master 6c236f01                
 太白經松一
 黃帝聖記經曰黄帝元年寅月寅日齋於首

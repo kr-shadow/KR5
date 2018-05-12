@@ -1,5 +1,5 @@
 #+TITLE: 悟真集--李先生
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0053 master fd6dab21                
 悟真集卷上連二
 　　　錦屏山通玄子李先生集

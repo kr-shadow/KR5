@@ -1,5 +1,5 @@
 #+TITLE: 西昇經-宋-徽宗
-#+DATE: 2016-06-11 12:27:02
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0047 master 930cc70b                
 西昇經序慕三
 萬物莫不由之之謂道道之在我之謂徳道

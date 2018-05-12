@@ -1,5 +1,5 @@
 #+TITLE: 上清太上帝君九真中經-六朝-
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:15
 #+SOURCE: github.com/kanripo/KR5g0185 master ee4f7cc9                
 上清太上帝君九真中經卷上旣一
 　　　　太虚眞人南嶽上仙赤松子傳

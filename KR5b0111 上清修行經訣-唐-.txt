@@ -1,5 +1,5 @@
 #+TITLE: 上清修行經訣-唐-
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0111 master fe46cf6f                
 上清修行經訣遜九
 　　　拘三魂法一(出上經靈/書紫文中)

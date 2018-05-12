@@ -1,5 +1,5 @@
 #+TITLE: 贊靈集-明-
-#+DATE: 2016-06-11 12:27:28
+#+DATE: 2018-05-12 10:22:18
 #+SOURCE: github.com/kanripo/KR5h0038 master 75aaa282                
 賛靈集目録
 　卷之一

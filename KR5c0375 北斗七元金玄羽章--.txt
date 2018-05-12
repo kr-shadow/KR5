@@ -1,5 +1,5 @@
 #+TITLE: 北斗七元金玄羽章--
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5c0375 master d76691da                
 北斗七元金玄羽章
 　　東斗註筭眞君南斗註生眞君

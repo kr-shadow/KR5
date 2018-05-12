@@ -1,5 +1,5 @@
 #+TITLE: 諸真論還丹訣-北宋-
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:38
 #+SOURCE: github.com/kanripo/KR5a0231 master c9917a2c                
 諸眞論還丹訣
 　　　玉壺頌十首

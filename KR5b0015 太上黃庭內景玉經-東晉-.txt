@@ -1,5 +1,5 @@
 #+TITLE: 太上黃庭內景玉經-東晉-
-#+DATE: 2016-06-11 12:26:53
+#+DATE: 2018-05-12 10:21:41
 #+SOURCE: github.com/kanripo/KR5b0015 master 95a38be8                
 二經同卷人十三
 　太上黄庭内景玉經

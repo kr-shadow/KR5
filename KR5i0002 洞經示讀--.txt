@@ -1,5 +1,5 @@
 #+TITLE: 洞經示讀--
-#+DATE: 2016-06-11 12:27:29
+#+DATE: 2018-05-12 10:22:19
 #+SOURCE: github.com/kanripo/KR5i0002 master 3589ecde                
 洞經示讀原序
 大凡事之有其究竟者必有其原來如洞經一書人但知爲吾

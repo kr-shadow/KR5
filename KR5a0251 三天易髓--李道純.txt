@@ -1,5 +1,5 @@
 #+TITLE: 三天易髓--李道純
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:38
 #+SOURCE: github.com/kanripo/KR5a0251 master 4b42f33b                
 三天易髓光七
 　　　　瑩蟾子李清𤲅撰混然子校正

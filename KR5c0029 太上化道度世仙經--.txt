@@ -1,5 +1,5 @@
 #+TITLE: 太上化道度世仙經--
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0029 master 4c753660                
 太上化道度世仙經傷九
 　　　化道品第一

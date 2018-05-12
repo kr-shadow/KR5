@@ -1,5 +1,5 @@
 #+TITLE: 道德經古本篇--傅奕
-#+DATE: 2016-06-11 12:27:02
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0046 master 5894f83f                
 道經古本篇上慕二
 　　　　唐太史令傅奕校定

@@ -1,5 +1,5 @@
 #+TITLE: 太上老君養生訣-唐初期-
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:57
 #+SOURCE: github.com/kanripo/KR5c0218 master 487f46a6                
 三篇同卷盡六
 　太上老君養生訣

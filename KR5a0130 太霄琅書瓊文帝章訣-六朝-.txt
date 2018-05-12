@@ -1,5 +1,5 @@
 #+TITLE: 太霄琅書瓊文帝章訣-六朝-
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0130 master 6222a0a2                
 太霄琅書瓊文帝章訣成二
 　　師資行事

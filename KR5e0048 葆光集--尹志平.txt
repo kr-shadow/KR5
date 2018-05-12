@@ -1,5 +1,5 @@
 #+TITLE: 葆光集--尹志平
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0048 master 51bb44a6                
 葆光集序同三
 伏以渾淪未判已合天地之眞清濁將分遂

@@ -1,5 +1,5 @@
 #+TITLE: 重陽分梨十化集--王嚞
-#+DATE: 2016-06-11 12:27:18
+#+DATE: 2018-05-12 10:22:07
 #+SOURCE: github.com/kanripo/KR5e0057 master ecfee3fa                
 重陽分梨十化集序交七
 丹陽先生系出扶風大辨之宗親也家貲鉅

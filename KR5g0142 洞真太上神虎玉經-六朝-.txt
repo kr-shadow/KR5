@@ -1,5 +1,5 @@
 #+TITLE: 洞真太上神虎玉經-六朝-
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:14
 #+SOURCE: github.com/kanripo/KR5g0142 master bf1e960c                
 二經同卷廣四
 　　洞真太上神虎玉經

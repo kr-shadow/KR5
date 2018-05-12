@@ -1,5 +1,5 @@
 #+TITLE: 太上老君說安宅八陽經-唐-
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0015 master bbca4f29                
 太上老君説安宅八陽經
 爾時

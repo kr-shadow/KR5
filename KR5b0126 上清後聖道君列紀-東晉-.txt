@@ -1,5 +1,5 @@
 #+TITLE: 上清後聖道君列紀-東晉-
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0126 master 374173ea                
 二篇同卷有一
 　上清後聖道君列紀

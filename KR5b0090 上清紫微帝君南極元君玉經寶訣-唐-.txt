@@ -1,5 +1,5 @@
 #+TITLE: 上清紫微帝君南極元君玉經寶訣-唐-
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:42
 #+SOURCE: github.com/kanripo/KR5b0090 master ea8df1c4                
 二經同卷位二
 　上清紫微帝君南極元君玉經寶訣

@@ -1,5 +1,5 @@
 #+TITLE: 三洞神符記--
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0079 master 5ddddcc3                
 三洞神符記　　　　　　　張一
 　　說三元八會六書之法

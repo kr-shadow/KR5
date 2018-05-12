@@ -1,5 +1,5 @@
 #+TITLE: 太上大道玉清經--
-#+DATE: 2016-06-11 12:27:24
+#+DATE: 2018-05-12 10:22:14
 #+SOURCE: github.com/kanripo/KR5g0121 master da2c5970                
 太上大道玉清經卷之一星一
 　　本起品第一

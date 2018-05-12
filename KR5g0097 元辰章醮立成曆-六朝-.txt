@@ -1,5 +1,5 @@
 #+TITLE: 元辰章醮立成曆-六朝-
-#+DATE: 2016-06-11 12:27:24
+#+DATE: 2018-05-12 10:22:13
 #+SOURCE: github.com/kanripo/KR5g0097 master 23f6f670                
 元辰章醮立成暦卷上階二
 　　　壇圖法

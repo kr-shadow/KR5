@@ -1,5 +1,5 @@
 #+TITLE: 靈寶眾真丹訣--
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0103 master 8f0ec2a7                
 靈寳衆眞丹訣位八
 　　　還䰟丹法(并序)

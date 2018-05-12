@@ -1,5 +1,5 @@
 #+TITLE: 九轉青金靈砂丹-宋-
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0292 master faed3636                
 九轉青金靈砂丹
 　水銀(一/斤)硫黄(四/兩)

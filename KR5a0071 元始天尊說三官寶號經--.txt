@@ -1,5 +1,5 @@
 #+TITLE: 元始天尊說三官寶號經--
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0071 master 87bc4d79                
 元始天尊說三官寳號經
 爾時

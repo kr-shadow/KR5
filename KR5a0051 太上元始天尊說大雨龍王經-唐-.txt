@@ -1,5 +1,5 @@
 #+TITLE: 太上元始天尊說大雨龍王經-唐-
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0051 master d2464eaa                
 四經同卷辰十
 　太上元始天尊說大雨龍王經

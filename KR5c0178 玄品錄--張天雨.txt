@@ -1,5 +1,5 @@
 #+TITLE: 玄品錄--張天雨
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0178 master b8b6be27                
 玄品録序當一
 太史公曰道家使人精神專一動合無形澹

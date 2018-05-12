@@ -1,5 +1,5 @@
 #+TITLE: 天樞院都司須知行遣式--
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5b0324 master c1b4b1ba                
 天樞院都司須知行遣式
 　　　表格

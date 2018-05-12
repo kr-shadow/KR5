@@ -1,5 +1,5 @@
 #+TITLE: 黃帝陰符經--
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0031 master ceea42f1                
 黃帝隂符經
 　　　神仙抱一演道童上

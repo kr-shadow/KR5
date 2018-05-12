@@ -1,5 +1,5 @@
 #+TITLE: 周易圖-南宋-
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0158 master bbe47d8f                
 周易圖卷上陽一
 　　　太極圖

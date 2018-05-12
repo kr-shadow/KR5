@@ -1,5 +1,5 @@
 #+TITLE: 大明道藏經目錄--
-#+DATE: 2016-06-11 12:27:27
+#+DATE: 2018-05-12 10:22:17
 #+SOURCE: github.com/kanripo/KR5g0243 master 292a9f1c                
 凡例
 一洞真部則無上法王元始天尊所出號洞

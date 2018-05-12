@@ -1,5 +1,5 @@
 #+TITLE: 老君變化無極經-東晉-
-#+DATE: 2016-06-11 12:27:20
+#+DATE: 2018-05-12 10:22:09
 #+SOURCE: github.com/kanripo/KR5g0004 master 1b414d97                
 四卷同卷滿二
 　老君變化無極經

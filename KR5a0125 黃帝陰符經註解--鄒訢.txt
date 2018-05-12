@@ -1,5 +1,5 @@
 #+TITLE: 黃帝陰符經註解--鄒訢
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0125 master 633fc854                
 黄帝陰符經注解餘八
 　　　　崆峒道士鄒訢註

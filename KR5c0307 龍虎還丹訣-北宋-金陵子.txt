@@ -1,5 +1,5 @@
 #+TITLE: 龍虎還丹訣-北宋-金陵子
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0307 master 1fee1974                
 龍虎還丹訣卷上蘭一
 　　　　金陵子述

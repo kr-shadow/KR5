@@ -1,5 +1,5 @@
 #+TITLE: 抱朴子別旨-唐-葛洪
-#+DATE: 2016-06-11 12:27:19
+#+DATE: 2018-05-12 10:22:09
 #+SOURCE: github.com/kanripo/KR5f0020 master 9a0ce07d                
 抱朴子别㫖
 夫胎精固神與守元氣同但莫止出入之息

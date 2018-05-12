@@ -1,5 +1,5 @@
 #+TITLE: 龍虎還丹訣-北宋-李真人
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0107 master bf6c007b                
 龍虎還丹訣
 　　　　李眞人述

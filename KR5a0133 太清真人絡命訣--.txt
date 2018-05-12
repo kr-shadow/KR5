@@ -1,5 +1,5 @@
 #+TITLE: 太清真人絡命訣--
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0133 master ecf132af                
 太清眞人絡命訣
 黄老曰魂者非謂魂也自吾鬼也鬼者人之

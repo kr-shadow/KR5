@@ -1,5 +1,5 @@
 #+TITLE: 白雲仙人靈草歌-五代-
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0332 master f942a4f5                
 二篇同卷如十
 　白雲仙人靈草歌

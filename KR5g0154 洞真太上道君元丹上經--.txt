@@ -1,5 +1,5 @@
 #+TITLE: 洞真太上道君元丹上經--
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:15
 #+SOURCE: github.com/kanripo/KR5g0154 master e6640e2c                
 洞真太上道君元丹上經内五
 　　青童大君傳

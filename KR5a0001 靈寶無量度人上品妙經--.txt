@@ -1,5 +1,5 @@
 #+TITLE: 靈寶無量度人上品妙經--
-#+DATE: 2016-06-11 12:26:45
+#+DATE: 2018-05-12 10:21:33
 #+SOURCE: github.com/kanripo/KR5a0001 master 9c776ebc                
 
 

@@ -1,5 +1,5 @@
 #+TITLE: 正一醮宅儀-唐-
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0198 master ddc3de5c                
 正一醮宅儀
 　凡人居宅虚耗牛馬死失田蠶不熟人口

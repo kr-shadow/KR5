@@ -1,5 +1,5 @@
 #+TITLE: 悟真篇註釋--張伯端
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0146 master 47ccf59f                
 悟眞篇注釋序吕一
 夫子嘗謂余曰天台仙翁道成授命紫陽眞

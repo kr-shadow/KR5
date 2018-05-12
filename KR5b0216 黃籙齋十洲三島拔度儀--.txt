@@ -1,5 +1,5 @@
 #+TITLE: 黃籙齋十洲三島拔度儀--
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:46
 #+SOURCE: github.com/kanripo/KR5b0216 master ece0445d                
 黃籙齋十洲三島㧞度儀
 　　　舉歩虚

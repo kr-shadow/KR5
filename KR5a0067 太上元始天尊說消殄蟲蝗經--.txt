@@ -1,5 +1,5 @@
 #+TITLE: 太上元始天尊說消殄蟲蝗經--
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0067 master cdb04e34                
 太上元始天尊說消殄蟲蝗經
 爾時

@@ -1,5 +1,5 @@
 #+TITLE: 生天經頌解--王吉昌
-#+DATE: 2016-06-11 12:26:53
+#+DATE: 2018-05-12 10:21:40
 #+SOURCE: github.com/kanripo/KR5a0325 master 93414801                
 生天經頌解島七
 　　　　超然子頌

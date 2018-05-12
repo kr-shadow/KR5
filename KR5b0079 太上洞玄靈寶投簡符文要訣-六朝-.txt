@@ -1,5 +1,5 @@
 #+TITLE: 太上洞玄靈寶投簡符文要訣-六朝-
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:42
 #+SOURCE: github.com/kanripo/KR5b0079 master 1a4d1e82                
 太上洞玄靈寳投簡符文要訣衣十
 

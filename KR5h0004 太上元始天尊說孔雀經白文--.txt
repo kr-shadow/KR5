@@ -1,5 +1,5 @@
 #+TITLE: 太上元始天尊說孔雀經白文--
-#+DATE: 2016-06-11 12:27:27
+#+DATE: 2018-05-12 10:22:17
 #+SOURCE: github.com/kanripo/KR5h0004 master b6e462ae                
 太上元始天尊說孔雀經白文
 　　知啓舉

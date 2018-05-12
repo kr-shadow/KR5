@@ -1,5 +1,5 @@
 #+TITLE: 贛州聖濟廟靈跡理--宋濓
-#+DATE: 2016-06-11 12:27:24
+#+DATE: 2018-05-12 10:22:13
 #+SOURCE: github.com/kanripo/KR5g0113 master 9ddf9cbc                
 贛州聖濟廟靈跡碑納九
 聖濟廟者初興於贛漸流布於四方所在郡

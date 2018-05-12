@@ -1,5 +1,5 @@
 #+TITLE: 攝生纂錄-唐-
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0283 master 25540089                
 攝生纂録大八
 　導引篇

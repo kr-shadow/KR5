@@ -1,5 +1,5 @@
 #+TITLE: 高上玉皇心印妙經--
-#+DATE: 2016-06-11 12:27:29
+#+DATE: 2018-05-12 10:22:20
 #+SOURCE: github.com/kanripo/KR5i0017 master 8234c4ac                
 重刋道藏輯要
 高上玉皇心印妙經

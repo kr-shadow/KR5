@@ -1,5 +1,5 @@
 #+TITLE: 玉籙資度設醮儀--
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0195 master a0673ede                
 玉籙資度設醮儀
 　　　法事如式

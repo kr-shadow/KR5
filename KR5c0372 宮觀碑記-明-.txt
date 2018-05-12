@@ -1,5 +1,5 @@
 #+TITLE: 宮觀碑記-明-
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5c0372 master 940b432e                
 宮觀碑誌不九
 　　　涇州回山重修王母宫記

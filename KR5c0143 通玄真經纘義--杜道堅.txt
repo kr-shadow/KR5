@@ -1,5 +1,5 @@
 #+TITLE: 通玄真經纘義--杜道堅
-#+DATE: 2016-06-11 12:27:06
+#+DATE: 2018-05-12 10:21:55
 #+SOURCE: github.com/kanripo/KR5c0143 master 7542fd1f                
 文子非一
 　文子姓辛名鈃一名計然葵丘濮上人也

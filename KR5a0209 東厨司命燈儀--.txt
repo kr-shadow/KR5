@@ -1,5 +1,5 @@
 #+TITLE: 東厨司命燈儀--
-#+DATE: 2016-06-11 12:26:50
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0209 master f8cce780                
 東廚司命燈儀
 　　　法事如式

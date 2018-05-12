@@ -1,5 +1,5 @@
 #+TITLE: 重陽真人金關玉鎖訣--王嚞
-#+DATE: 2016-06-11 12:27:18
+#+DATE: 2018-05-12 10:22:07
 #+SOURCE: github.com/kanripo/KR5e0058 master 1483a0a8                
 三訣同卷交九
 　　　重陽真人金關玉鎖訣

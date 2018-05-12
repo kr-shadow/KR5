@@ -1,5 +1,5 @@
 #+TITLE: 太上洞淵說請雨龍王經--
-#+DATE: 2016-06-11 12:26:54
+#+DATE: 2018-05-12 10:21:41
 #+SOURCE: github.com/kanripo/KR5b0046 master 234bf915                
 五經同卷乃九
 　太上洞淵說請雨龍王經

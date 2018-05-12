@@ -1,5 +1,5 @@
 #+TITLE: 正一威儀經--
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0188 master ececad9e                
 正一威儀經忠一
 太上曰正一受道威儀初入道門詣師奉受

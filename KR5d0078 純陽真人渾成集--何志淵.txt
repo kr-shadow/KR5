@@ -1,5 +1,5 @@
 #+TITLE: 純陽真人渾成集--何志淵
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0078 master acbd29c1                
 純陽眞人渾成集序尊七
 竊謂古人無心於爲文故言發乎誠而大體

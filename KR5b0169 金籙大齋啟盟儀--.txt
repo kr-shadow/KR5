@@ -1,5 +1,5 @@
 #+TITLE: 金籙大齋啟盟儀--
-#+DATE: 2016-06-11 12:26:57
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0169 master bfefea7e                
 金籙大齋啓盟儀
 　　　高功升座

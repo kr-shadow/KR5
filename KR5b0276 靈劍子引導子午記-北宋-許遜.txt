@@ -1,5 +1,5 @@
 #+TITLE: 靈劍子引導子午記-北宋-許遜
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0276 master 22355cc1                
 靈劔子引導子午記大二
 　　　　許旌陽述

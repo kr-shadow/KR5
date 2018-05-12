@@ -1,5 +1,5 @@
 #+TITLE: 紫元君授道傳心法-唐-陰長生
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:38
 #+SOURCE: github.com/kanripo/KR5a0227 master 9d5a69e3                
 紫元君授道傳心法
 　　　　長生隂真人註

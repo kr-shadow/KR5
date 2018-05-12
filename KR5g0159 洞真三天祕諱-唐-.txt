@@ -1,5 +1,5 @@
 #+TITLE: 洞真三天祕諱-唐-
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:15
 #+SOURCE: github.com/kanripo/KR5g0159 master 30e420ca                
 洞眞三天秘諱
 凡受三五先存識三天真名三師真名有急

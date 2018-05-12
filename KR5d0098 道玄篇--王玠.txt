@@ -1,5 +1,5 @@
 #+TITLE: 道玄篇--王玠
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0098 master 09b80db0                
 道玄篇唱一
 　　　　南昌俻江混然子王道淵撰

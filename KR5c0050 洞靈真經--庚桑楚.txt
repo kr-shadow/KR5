@@ -1,5 +1,5 @@
 #+TITLE: 洞靈真經--庚桑楚
-#+DATE: 2016-06-11 12:27:02
+#+DATE: 2018-05-12 10:21:50
 #+SOURCE: github.com/kanripo/KR5c0050 master 8ca0e1bf                
 庚桑子貞一
 

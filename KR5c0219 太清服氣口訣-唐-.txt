@@ -1,5 +1,5 @@
 #+TITLE: 太清服氣口訣-唐-
-#+DATE: 2016-06-11 12:27:09
+#+DATE: 2018-05-12 10:21:57
 #+SOURCE: github.com/kanripo/KR5c0219 master 30a62fba                
 太清服氣口訣
 夫萬物之生禀隂陽而成形彚兆隂陽施化

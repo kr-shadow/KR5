@@ -1,5 +1,5 @@
 #+TITLE: 諸師真誥-明-
-#+DATE: 2016-06-11 12:26:53
+#+DATE: 2018-05-12 10:21:40
 #+SOURCE: github.com/kanripo/KR5a0321 master ac08752e                
 諸師真誥鳥一
 　　　元始至尊號

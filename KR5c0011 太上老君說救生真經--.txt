@@ -1,5 +1,5 @@
 #+TITLE: 太上老君說救生真經--
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0011 master 814da4e6                
 七經同卷傷四
 　太上老君說救生眞經

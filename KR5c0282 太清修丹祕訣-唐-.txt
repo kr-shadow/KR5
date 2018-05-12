@@ -1,5 +1,5 @@
 #+TITLE: 太清修丹祕訣-唐-
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0282 master d3da8f19                
 太清修丹袐訣興士
 　　　採種靈砂修丹法

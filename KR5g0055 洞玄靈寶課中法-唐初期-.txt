@@ -1,5 +1,5 @@
 #+TITLE: 洞玄靈寶課中法-唐初期-
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:12
 #+SOURCE: github.com/kanripo/KR5g0055 master e6ca8e83                
 洞玄靈寶課中法
 　　　紫虛籙儀

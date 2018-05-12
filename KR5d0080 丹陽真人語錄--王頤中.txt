@@ -1,5 +1,5 @@
 #+TITLE: 丹陽真人語錄--王頤中
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0080 master 6b0dc196                
 丹陽眞人語録畢二
 　　　　靈隱子王頥中集

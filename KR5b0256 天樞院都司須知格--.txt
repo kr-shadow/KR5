@@ -1,5 +1,5 @@
 #+TITLE: 天樞院都司須知格--
-#+DATE: 2016-06-11 12:26:59
+#+DATE: 2018-05-12 10:21:47
 #+SOURCE: github.com/kanripo/KR5b0256 master f49c57f6                
 天樞院都司須知格
 　　　天樞院都司黔法格式

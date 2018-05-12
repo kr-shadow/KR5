@@ -1,5 +1,5 @@
 #+TITLE: 諸家神品丹法-宋-孟要甫
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0318 master de85793b                
 諸家神品丹法卷之一馨一
 　　　抱朴子內篇

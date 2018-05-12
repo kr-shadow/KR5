@@ -1,5 +1,5 @@
 #+TITLE: 玄經原旨發揮--杜道堅
-#+DATE: 2016-06-11 12:27:03
+#+DATE: 2018-05-12 10:21:51
 #+SOURCE: github.com/kanripo/KR5c0090 master b1caf4d7                
 玄經原㫖發揮序彼九
 老子自孔子稱曰猶龍莊周尊曰玄聖歷代

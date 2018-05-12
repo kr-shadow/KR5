@@ -1,5 +1,5 @@
 #+TITLE: 太上洞玄靈寶法燭經--陸修靜
-#+DATE: 2016-06-11 12:26:54
+#+DATE: 2018-05-12 10:21:41
 #+SOURCE: github.com/kanripo/KR5b0033 master 75fc9b81                
 三經同卷字十
 　太上洞玄靈寳法燭經

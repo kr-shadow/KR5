@@ -1,5 +1,5 @@
 #+TITLE: 太上說十鍊生神救護經--
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0017 master 646ba8bf                
 太上說十錬生神救護經
 爾時

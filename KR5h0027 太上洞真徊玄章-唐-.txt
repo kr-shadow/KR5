@@ -1,5 +1,5 @@
 #+TITLE: 太上洞真徊玄章-唐-
-#+DATE: 2016-06-11 12:27:27
+#+DATE: 2018-05-12 10:22:17
 #+SOURCE: github.com/kanripo/KR5h0027 master a46fbfc5                
 太上洞真徊玄章
 太上發玄藴煥爛敷真文落落散天寳十方

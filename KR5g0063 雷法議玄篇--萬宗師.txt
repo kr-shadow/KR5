@@ -1,5 +1,5 @@
 #+TITLE: 雷法議玄篇--萬宗師
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:12
 #+SOURCE: github.com/kanripo/KR5g0063 master 1119fcb7                
 雷法議玄篇席八
 　　　　元盧真人萬宗師撰

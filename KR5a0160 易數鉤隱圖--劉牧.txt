@@ -1,5 +1,5 @@
 #+TITLE: 易數鉤隱圖--劉牧
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0160 master 0b497d92                
 易數鈎隱圖序雲一
 　　　　　三衢劉牧撰

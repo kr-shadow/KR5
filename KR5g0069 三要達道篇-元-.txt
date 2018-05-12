@@ -1,5 +1,5 @@
 #+TITLE: 三要達道篇-元-
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:13
 #+SOURCE: github.com/kanripo/KR5g0069 master f77e1f52                
 三要達道篇
 夫炁受於沖和形成於天地妙用藏於不測

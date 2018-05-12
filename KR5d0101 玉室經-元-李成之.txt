@@ -1,5 +1,5 @@
 #+TITLE: 玉室經-元-李成之
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0101 master a3d5444a                
 二經同卷唱五
 　玉室經

@@ -1,5 +1,5 @@
 #+TITLE: 龍角山記--
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5c0368 master 2f69402c                
 龍角山記不七
 　　　唐明皇御製慶唐觀紀聖銘

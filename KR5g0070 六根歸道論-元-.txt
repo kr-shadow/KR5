@@ -1,5 +1,5 @@
 #+TITLE: 六根歸道論-元-
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:13
 #+SOURCE: github.com/kanripo/KR5g0070 master d0145e2b                
 六根歸道篇
 寧根固蔕知常守静則真元得以滋益致虚

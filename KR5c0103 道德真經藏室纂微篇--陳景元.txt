@@ -1,5 +1,5 @@
 #+TITLE: 道德真經藏室纂微篇--陳景元
-#+DATE: 2016-06-11 12:27:04
+#+DATE: 2018-05-12 10:21:52
 #+SOURCE: github.com/kanripo/KR5c0103 master 55bea98e                
 道德眞經藏室纂微篇卷之一
 　　　碧虚子陳景元纂

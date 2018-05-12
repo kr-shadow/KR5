@@ -1,5 +1,5 @@
 #+TITLE: 大丹篇--
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0338 master 81a9f1bd                
 太丹篇松四
 元陽子曰金虎者還丹之根本金虎非二物

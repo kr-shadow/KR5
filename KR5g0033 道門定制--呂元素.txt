@@ -1,5 +1,5 @@
 #+TITLE: 道門定制--呂元素
-#+DATE: 2016-06-11 12:27:22
+#+DATE: 2018-05-12 10:22:11
 #+SOURCE: github.com/kanripo/KR5g0033 master b5dfdd47                
 道門定制序丙一
 至簡易者道而至詳備者禮凡人之所以事

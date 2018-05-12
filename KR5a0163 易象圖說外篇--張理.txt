@@ -1,5 +1,5 @@
 #+TITLE: 易象圖說外篇--張理
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0163 master 13b6dd44                
 易象圖說外篇卷上雲八
 　　　清江後學張理仲純述

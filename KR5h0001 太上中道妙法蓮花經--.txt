@@ -1,5 +1,5 @@
 #+TITLE: 太上中道妙法蓮花經--
-#+DATE: 2016-06-11 12:27:27
+#+DATE: 2018-05-12 10:22:17
 #+SOURCE: github.com/kanripo/KR5h0001 master c49a6a37                
 太上中道妙法蓮華經卷之一杜一
 　　元始大羅品第一

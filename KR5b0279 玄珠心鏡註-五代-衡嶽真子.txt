@@ -1,5 +1,5 @@
 #+TITLE: 玄珠心鏡註-五代-衡嶽真子
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0279 master fd4f6a04                
 玄珠心鏡註
 　　　　　　衡嶽真子註

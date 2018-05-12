@@ -1,5 +1,5 @@
 #+TITLE: 張真人金石靈砂論--張隱居
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0285 master 84a5b03d                
 張真人金石靈砂論凊二
 　　　　䝉山張隱居撰

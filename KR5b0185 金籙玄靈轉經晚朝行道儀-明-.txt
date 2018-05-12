@@ -1,5 +1,5 @@
 #+TITLE: 金籙玄靈轉經晚朝行道儀-明-
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0185 master cbcab551                
 玄靈轉經晚朝行道儀
 　　　法事如式

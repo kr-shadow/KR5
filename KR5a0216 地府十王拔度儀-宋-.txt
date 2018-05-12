@@ -1,5 +1,5 @@
 #+TITLE: 地府十王拔度儀-宋-
-#+DATE: 2016-06-11 12:26:50
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0216 master db9e7c5d                
 地府十王㧞度儀爲八
 　　　法事

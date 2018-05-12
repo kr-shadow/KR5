@@ -1,5 +1,5 @@
 #+TITLE: 玄寶人鳥山經圖--
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0118 master 60dca1c8                
 玄覽人鳥山經圖
 太上曰無數諸天各有人鳥之山有人之象

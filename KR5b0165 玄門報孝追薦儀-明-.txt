@@ -1,5 +1,5 @@
 #+TITLE: 玄門報孝追薦儀-明-
-#+DATE: 2016-06-11 12:26:57
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0165 master e5ff25e9                
 玄門報孝追薦儀壹十三
 　　自然朝行道

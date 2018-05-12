@@ -1,5 +1,5 @@
 #+TITLE: 彭祖攝生養性論-唐-
-#+DATE: 2016-06-11 12:27:09
+#+DATE: 2018-05-12 10:21:57
 #+SOURCE: github.com/kanripo/KR5c0237 master 1aa6523a                
 三論同卷臨五
 　彭祖攝生養性論

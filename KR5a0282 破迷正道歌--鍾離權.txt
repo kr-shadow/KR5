@@ -1,5 +1,5 @@
 #+TITLE: 破迷正道歌--鍾離權
-#+DATE: 2016-06-11 12:26:52
+#+DATE: 2018-05-12 10:21:39
 #+SOURCE: github.com/kanripo/KR5a0282 master 4c944ca7                
 破迷正道歌芥一
 　　　　正陽真人鍾離述

@@ -1,5 +1,5 @@
 #+TITLE: 太上靈寶淨明入道品--
-#+DATE: 2016-06-11 12:26:59
+#+DATE: 2018-05-12 10:21:47
 #+SOURCE: github.com/kanripo/KR5b0261 master 42576a44                
 三篇同卷身六
 　太上靈寳淨明入道品

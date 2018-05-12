@@ -1,5 +1,5 @@
 #+TITLE: 大還丹金虎白龍論--還陽子
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0337 master 3763fe2f                
 大還丹金虎白龍論
 　　　　蘇門山隱士還陽子述

@@ -1,5 +1,5 @@
 #+TITLE: 修真十書雜著捷徑-元-
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:39
 #+SOURCE: github.com/kanripo/KR5a0267 master d2decab9                
 修眞十書雜著捷徑卷之十七李三
 　翠虛篇

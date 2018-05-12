@@ -1,5 +1,5 @@
 #+TITLE: 周易參同契分章通真義--彭曉
-#+DATE: 2016-06-11 12:27:12
+#+DATE: 2018-05-12 10:22:01
 #+SOURCE: github.com/kanripo/KR5d0019 master bd71caa0                
 周易參同契分章通眞義序容三
 　　　序曰

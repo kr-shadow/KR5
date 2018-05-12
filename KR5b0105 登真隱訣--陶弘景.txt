@@ -1,5 +1,5 @@
 #+TITLE: 登真隱訣--陶弘景
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0105 master 8f0fb044                
 登眞隱訣卷上遜一
 　　　　華陽隱居陶弘景撰

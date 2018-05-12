@@ -1,5 +1,5 @@
 #+TITLE: 無上祕要--
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0040 master f7c984b4                
 無上祕要目録叔一
 卷之一闕

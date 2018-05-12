@@ -1,5 +1,5 @@
 #+TITLE: 指歸集--吳悞
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0321 master 1b494ada                
 指歸集緫叙如二
 　　　　髙蓋山人吳悟撰

@@ -1,5 +1,5 @@
 #+TITLE: 太上說輪轉五道宿命因緣經--
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0028 master 17ab45bc                
 太上說轉輪五道宿命因縁經
 爾時

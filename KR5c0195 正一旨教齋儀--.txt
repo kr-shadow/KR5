@@ -1,5 +1,5 @@
 #+TITLE: 正一旨教齋儀--
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0195 master b06df928                
 二儀同卷忠八
 　正一指教齋儀

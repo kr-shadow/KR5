@@ -1,5 +1,5 @@
 #+TITLE: 碧玉朱砂寒林玉樹匱-南宋-陳大師
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0296 master dddd46a7                
 碧玉朱砂寒林玉樹匱凊九
 　　　　　西蜀陳大師述

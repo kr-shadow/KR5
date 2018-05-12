@@ -1,5 +1,5 @@
 #+TITLE: 種芝草法-唐-
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0333 master 4fb15a74                
 種芝草法
 黄帝問曰敢問石室之文種芝法可得聞乎

@@ -1,5 +1,5 @@
 #+TITLE: 養生詠玄集-宋-
-#+DATE: 2016-06-11 12:27:09
+#+DATE: 2018-05-12 10:21:57
 #+SOURCE: github.com/kanripo/KR5c0240 master 26c9ee4d                
 養生詠玄集序臨六
 夫詠玄者乃詠玄中深奥也窈冥取理恍惚

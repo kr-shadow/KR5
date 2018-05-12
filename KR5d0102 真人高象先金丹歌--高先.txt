@@ -1,5 +1,5 @@
 #+TITLE: 真人高象先金丹歌--高先
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0102 master a243cbae                
 真人高象先金丹歌
 高先字象先朐陽人也余素昧平生祥符六

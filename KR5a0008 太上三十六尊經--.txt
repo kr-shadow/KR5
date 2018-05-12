@@ -1,5 +1,5 @@
 #+TITLE: 太上三十六尊經--
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:33
 #+SOURCE: github.com/kanripo/KR5a0008 master 848f3a77                
 太上三十六部尊經日三
 　玉清境經上

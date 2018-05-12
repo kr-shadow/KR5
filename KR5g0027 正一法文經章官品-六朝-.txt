@@ -1,5 +1,5 @@
 #+TITLE: 正一法文經章官品-六朝-
-#+DATE: 2016-06-11 12:27:20
+#+DATE: 2018-05-12 10:22:09
 #+SOURCE: github.com/kanripo/KR5g0027 master bec82617                
 正一法文經章官品目録物八
 　　　第一卷

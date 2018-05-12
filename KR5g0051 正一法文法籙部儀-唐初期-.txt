@@ -1,5 +1,5 @@
 #+TITLE: 正一法文法籙部儀-唐初期-
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:12
 #+SOURCE: github.com/kanripo/KR5g0051 master 44c1a6ae                
 正一法文法籙部儀肆五
 　　　黄素三盟登壇儀

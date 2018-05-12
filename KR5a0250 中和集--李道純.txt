@@ -1,5 +1,5 @@
 #+TITLE: 中和集--李道純
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:38
 #+SOURCE: github.com/kanripo/KR5a0250 master e6b3de23                
 中和集叙光一
 維揚損菴蔡君志頤瑩蟾子李清菴之門人

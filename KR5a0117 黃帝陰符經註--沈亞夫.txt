@@ -1,5 +1,5 @@
 #+TITLE: 黃帝陰符經註--沈亞夫
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:35
 #+SOURCE: github.com/kanripo/KR5a0117 master f26e31fd                
 二经同卷閏九
 　黄帝陰符經注沈亚夫注

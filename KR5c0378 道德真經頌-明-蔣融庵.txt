@@ -1,5 +1,5 @@
 #+TITLE: 道德真經頌-明-蔣融庵
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5c0378 master 8f45a7cb                
 二篇同卷淵五
 　道徳真經頌

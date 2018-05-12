@@ -1,5 +1,5 @@
 #+TITLE: 莊子注-晉-郭象
-#+DATE: 2016-06-11 12:27:06
+#+DATE: 2018-05-12 10:21:54
 #+SOURCE: github.com/kanripo/KR5c0138 master 7e74ad4f                
 欽定四庫全書　　　　　子部十四
 　荘子注　　　　　　　　道家𩔖

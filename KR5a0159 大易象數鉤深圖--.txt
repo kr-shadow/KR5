@@ -1,5 +1,5 @@
 #+TITLE: 大易象數鉤深圖--
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0159 master 66567ab5                
 大易象數鈎深圖卷上陽四
 

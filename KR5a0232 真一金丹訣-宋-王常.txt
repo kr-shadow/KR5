@@ -1,5 +1,5 @@
 #+TITLE: 真一金丹訣-宋-王常
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:38
 #+SOURCE: github.com/kanripo/KR5a0232 master d1fdfbba                
 二訣同卷珠四
 　真一金丹訣

@@ -1,5 +1,5 @@
 #+TITLE: 丹論訣旨心鑑-五代-張玄德
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0335 master b9569692                
 丹論訣旨心鑑松二
 　　　　　張元徳撰

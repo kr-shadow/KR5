@@ -1,5 +1,5 @@
 #+TITLE: 懸解錄--
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0328 master 300e0a76                
 懸解録并序
 余少甚抱疾専意修養至於金石服餌亦嘗

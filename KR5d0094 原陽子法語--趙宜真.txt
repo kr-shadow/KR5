@@ -1,5 +1,5 @@
 #+TITLE: 原陽子法語--趙宜真
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0094 master 3a20a0d0                
 原陽子法語卷上夫六
 　　　　浚儀趙宜真撰

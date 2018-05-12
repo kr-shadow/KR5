@@ -1,5 +1,5 @@
 #+TITLE: 玄真靈應寶籤--
-#+DATE: 2016-06-11 12:27:24
+#+DATE: 2018-05-12 10:22:13
 #+SOURCE: github.com/kanripo/KR5g0108 master 225a91ea                
 玄真靈應寳籤序
 始吾廟食劒嶺所降清河内傳落筆雙松凡

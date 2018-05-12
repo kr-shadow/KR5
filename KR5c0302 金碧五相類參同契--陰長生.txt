@@ -1,5 +1,5 @@
 #+TITLE: 金碧五相類參同契--陰長生
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0302 master da0dcac2                
 金碧五相類參同契序似五
 　　　　陰長生譔

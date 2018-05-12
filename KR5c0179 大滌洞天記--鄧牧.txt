@@ -1,5 +1,5 @@
 #+TITLE: 大滌洞天記--鄧牧
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0179 master 1d1b8c1d                
 大滌洞天記序當六
 淛之爲郡山川雄秀甲於東南故爲吾道之

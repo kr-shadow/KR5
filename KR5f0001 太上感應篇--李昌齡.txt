@@ -1,5 +1,5 @@
 #+TITLE: 太上感應篇--李昌齡
-#+DATE: 2016-06-11 12:27:19
+#+DATE: 2018-05-12 10:22:08
 #+SOURCE: github.com/kanripo/KR5f0001 master 9cfd29dc                
 進太上感應篇表義一
 (臣)瑩微言凝旒重道深嘉

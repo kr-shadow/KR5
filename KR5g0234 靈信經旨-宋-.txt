@@ -1,5 +1,5 @@
 #+TITLE: 靈信經旨-宋-
-#+DATE: 2016-06-11 12:27:26
+#+DATE: 2018-05-12 10:22:16
 #+SOURCE: github.com/kanripo/KR5g0234 master 3da9ee1c                
 㫖論同卷群六
 　靈信經㫖

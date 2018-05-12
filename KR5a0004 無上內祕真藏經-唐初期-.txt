@@ -1,5 +1,5 @@
 #+TITLE: 無上內祕真藏經-唐初期-
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:33
 #+SOURCE: github.com/kanripo/KR5a0004 master 9496b65d                
 无上内祕眞藏經卷之一　　　　　洪八
 　　　顯道品

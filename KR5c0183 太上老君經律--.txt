@@ -1,5 +1,5 @@
 #+TITLE: 太上老君經律--
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0183 master fdcca48c                
 太上老君經律力三
 　　　道徳尊經戒九行二十七戒

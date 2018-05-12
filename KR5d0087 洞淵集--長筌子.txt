@@ -1,5 +1,5 @@
 #+TITLE: 洞淵集--長筌子
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0087 master 480d2e9d                
 洞淵集卷之一和五
 　　　　龜山長筌子著

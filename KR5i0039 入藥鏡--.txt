@@ -1,5 +1,5 @@
 #+TITLE: 入藥鏡--
-#+DATE: 2016-06-11 12:27:30
+#+DATE: 2018-05-12 10:22:20
 #+SOURCE: github.com/kanripo/KR5i0039 master fc11637f                
 入藥鏡序
 余嘗謬意仙詮𣺌尋玄旨卽僧燈道典咸置追繹顧生逾七十

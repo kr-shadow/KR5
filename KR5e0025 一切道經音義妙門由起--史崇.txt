@@ -1,5 +1,5 @@
 #+TITLE: 一切道經音義妙門由起--史崇
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:05
 #+SOURCE: github.com/kanripo/KR5e0025 master 8a242c5b                
 一切道經音義序儀一
 　　　　唐　玄　宗　御　製

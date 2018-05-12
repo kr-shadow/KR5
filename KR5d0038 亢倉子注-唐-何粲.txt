@@ -1,5 +1,5 @@
 #+TITLE: 亢倉子注-唐-何粲
-#+DATE: 2016-06-11 12:27:13
+#+DATE: 2018-05-12 10:22:01
 #+SOURCE: github.com/kanripo/KR5d0038 master b47fde02                
 欽定四庫全書
 　亢倉子注

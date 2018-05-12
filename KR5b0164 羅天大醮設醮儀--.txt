@@ -1,5 +1,5 @@
 #+TITLE: 羅天大醮設醮儀--
-#+DATE: 2016-06-11 12:26:57
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0164 master b1be3126                
 羅天大醮設醮儀壹十二
 　　　各禮師存念如法

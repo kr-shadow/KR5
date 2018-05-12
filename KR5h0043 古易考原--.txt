@@ -1,5 +1,5 @@
 #+TITLE: 古易考原--
-#+DATE: 2016-06-11 12:27:28
+#+DATE: 2018-05-12 10:22:18
 #+SOURCE: github.com/kanripo/KR5h0043 master 3a792070                
 古易考原卷之一給四
 伏羲卦畫之一

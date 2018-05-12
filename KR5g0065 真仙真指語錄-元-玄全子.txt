@@ -1,5 +1,5 @@
 #+TITLE: 真仙真指語錄-元-玄全子
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:12
 #+SOURCE: github.com/kanripo/KR5g0065 master 28ed61f2                
 真仙直指語録卷上鼓二
 　　　　海天秋月道人玄全子集

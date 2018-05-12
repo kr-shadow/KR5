@@ -1,5 +1,5 @@
 #+TITLE: 晉真人語錄--
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0079 master 1f79d45c                
 𣈆眞人語録
 先生曰開闢已來至於今日這人沉淪無有

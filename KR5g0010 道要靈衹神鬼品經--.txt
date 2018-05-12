@@ -1,5 +1,5 @@
 #+TITLE: 道要靈衹神鬼品經--
-#+DATE: 2016-06-11 12:27:20
+#+DATE: 2018-05-12 10:22:09
 #+SOURCE: github.com/kanripo/KR5g0010 master 2470dd07                
 道要靈祇神鬼品經滿四
 　　　總序靈祇

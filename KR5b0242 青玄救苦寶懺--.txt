@@ -1,5 +1,5 @@
 #+TITLE: 青玄救苦寶懺--
-#+DATE: 2016-06-11 12:26:59
+#+DATE: 2018-05-12 10:21:47
 #+SOURCE: github.com/kanripo/KR5b0242 master ceb62aa4                
 二懴同卷被七
 　青玄救苦寳懴

@@ -1,5 +1,5 @@
 #+TITLE: 清微玄樞奏告儀-元-葉雲萊
-#+DATE: 2016-06-11 12:26:50
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0219 master 7be57489                
 清微玄樞奏告儀爲十一
 　　　入壇

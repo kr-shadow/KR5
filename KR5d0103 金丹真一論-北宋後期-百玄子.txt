@@ -1,5 +1,5 @@
 #+TITLE: 金丹真一論-北宋後期-百玄子
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0103 master edff3edd                
 金丹真一論唱六
 　　　　百　玄　子　撰

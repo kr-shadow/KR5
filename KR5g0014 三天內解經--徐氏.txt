@@ -1,5 +1,5 @@
 #+TITLE: 三天內解經--徐氏
-#+DATE: 2016-06-11 12:27:20
+#+DATE: 2018-05-12 10:22:09
 #+SOURCE: github.com/kanripo/KR5g0014 master f8b44d17                
 三天内解經卷上滿八
 　　　　三天弟子徐氏撰

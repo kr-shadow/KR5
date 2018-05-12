@@ -1,5 +1,5 @@
 #+TITLE: 太上說六甲直符保胎護命妙經-唐-
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0050 master 931eab2e                
 太上說六甲直符保胎護命妙經
 爾時

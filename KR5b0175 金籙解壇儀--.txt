@@ -1,5 +1,5 @@
 #+TITLE: 金籙解壇儀--
-#+DATE: 2016-06-11 12:26:57
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0175 master 4e38d5a9                
 三儀同卷軆五
 　金籙解壇儀

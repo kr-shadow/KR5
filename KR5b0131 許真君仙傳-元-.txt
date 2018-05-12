@@ -1,5 +1,5 @@
 #+TITLE: 許真君仙傳-元-
-#+DATE: 2016-06-11 12:26:56
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0131 master ec1a039e                
 許眞君仙傳虞一
 九州都仙太史髙明大使至道玄應神功妙

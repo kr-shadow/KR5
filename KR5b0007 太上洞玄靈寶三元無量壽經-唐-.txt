@@ -1,5 +1,5 @@
 #+TITLE: 太上洞玄靈寶三元無量壽經-唐-
-#+DATE: 2016-06-11 12:26:53
+#+DATE: 2018-05-12 10:21:41
 #+SOURCE: github.com/kanripo/KR5b0007 master cde5e808                
 太上洞玄靈寳三元無量壽經人七
 爾時

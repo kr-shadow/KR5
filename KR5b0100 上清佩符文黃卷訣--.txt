@@ -1,5 +1,5 @@
 #+TITLE: 上清佩符文黃卷訣--
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:42
 #+SOURCE: github.com/kanripo/KR5b0100 master 8aeb7201                
 上清佩符文黄劵訣
 　　　上元檢天大籙文

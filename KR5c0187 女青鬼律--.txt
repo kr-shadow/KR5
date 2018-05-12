@@ -1,5 +1,5 @@
 #+TITLE: 女青鬼律--
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0187 master dd76cb0e                
 女青鬼律卷之一(二同/卷)力七
 律曰天地初生元氣施行萬神布氣无有醜

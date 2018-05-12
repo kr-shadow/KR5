@@ -1,5 +1,5 @@
 #+TITLE: 太上說紫微神兵護國消魔經-宋-
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0036 master 8293b8f7                
 太上說紫㣲神兵護國消魔經
 爾時

@@ -1,5 +1,5 @@
 #+TITLE: 太上昇玄消災護命妙經-唐-
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:33
 #+SOURCE: github.com/kanripo/KR5a0019 master b777fee5                
 三經同卷盈十二
 　太上昇玄消災護命妙經

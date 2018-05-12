@@ -1,5 +1,5 @@
 #+TITLE: 眾仙讚頌靈章-唐-
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0318 master a994b118                
 衆仙讃頌靈章養七
 　青華救苦讃

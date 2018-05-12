@@ -1,5 +1,5 @@
 #+TITLE: 北斗七元星燈儀--
-#+DATE: 2016-06-11 12:26:50
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0201 master 960cad2e                
 北斗七元星燈儀
 　　　法事如式

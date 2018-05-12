@@ -1,5 +1,5 @@
 #+TITLE: 西雲集--郭志誠
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0049 master 6fb2c893                
 西雲集卷上同六
 　　　　洞眀子撰

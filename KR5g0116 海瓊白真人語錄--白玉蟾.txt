@@ -1,5 +1,5 @@
 #+TITLE: 海瓊白真人語錄--白玉蟾
-#+DATE: 2016-06-11 12:27:24
+#+DATE: 2018-05-12 10:22:14
 #+SOURCE: github.com/kanripo/KR5g0116 master ee1bcc48                
 海瓊白眞人語録卷之一并一
 　　紫　壺　道　士　謝　顯　道　編

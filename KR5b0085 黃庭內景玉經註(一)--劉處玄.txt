@@ -1,5 +1,5 @@
 #+TITLE: 黃庭內景玉經註(一)--劉處玄
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:42
 #+SOURCE: github.com/kanripo/KR5b0085 master 53bc7d7e                
 黃庭內景玉經註推六
 　　　　神山劉長生解

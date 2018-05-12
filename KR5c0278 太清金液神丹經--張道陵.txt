@@ -1,5 +1,5 @@
 #+TITLE: 太清金液神丹經--張道陵
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0278 master 6a581df4                
 太清金液神丹經卷上興一
 　　　　正一天師張道陵序

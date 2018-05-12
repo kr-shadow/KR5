@@ -1,5 +1,5 @@
 #+TITLE: 通占大象曆星經-唐-
-#+DATE: 2016-06-11 12:26:52
+#+DATE: 2018-05-12 10:21:40
 #+SOURCE: github.com/kanripo/KR5a0299 master d63a9499                
 通占大象曆星經卷上薑七
 原缺文一張

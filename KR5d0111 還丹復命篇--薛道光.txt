@@ -1,5 +1,5 @@
 #+TITLE: 還丹復命篇--薛道光
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0111 master 0b85de48                
 還丹復命篇序
 嗟夫人之有身其昧也久矣以名利盜其心

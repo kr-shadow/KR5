@@ -1,5 +1,5 @@
 #+TITLE: 洞真太上八道命籍經--
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:14
 #+SOURCE: github.com/kanripo/KR5g0137 master 3a40c5e5                
 洞眞太上八道命籍經卷上通九
 　　解罪所用訣

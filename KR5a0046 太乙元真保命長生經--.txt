@@ -1,5 +1,5 @@
 #+TITLE: 太乙元真保命長生經--
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0046 master e9ae89cb                
 太乙元眞保命長生經
 太乙元眞曰積陽爲神積隂爲形隂陽两半

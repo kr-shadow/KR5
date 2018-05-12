@@ -1,5 +1,5 @@
 #+TITLE: 太乙火府奏告祈禳儀--
-#+DATE: 2016-06-11 12:26:50
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0218 master 2e736613                
 太乙火府奏告祈禳儀爲十
 　　　舉歩虛

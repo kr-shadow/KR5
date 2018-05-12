@@ -1,5 +1,5 @@
 #+TITLE: 子華子-春秋-程本
-#+DATE: 2016-06-11 12:27:19
+#+DATE: 2018-05-12 10:22:08
 #+SOURCE: github.com/kanripo/KR5f0008 master fcfc435d                
 子華子序顛五
 護左都水使者光禄大夫臣向言所校讎中

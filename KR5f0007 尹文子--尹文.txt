@@ -1,5 +1,5 @@
 #+TITLE: 尹文子--尹文
-#+DATE: 2016-06-11 12:27:19
+#+DATE: 2018-05-12 10:22:08
 #+SOURCE: github.com/kanripo/KR5f0007 master 6d472787                
 尹文子序顛四
 　　　山　陽　仲　長　氏　撰　定

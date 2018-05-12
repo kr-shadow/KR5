@@ -1,5 +1,5 @@
 #+TITLE: 太上三洞神咒-明-
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0078 master a867c0d2                
 太上三洞神呪卷之一列一
 　雷霆祈禱策役諸呪

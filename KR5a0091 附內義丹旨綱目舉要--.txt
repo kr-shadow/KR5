@@ -1,5 +1,5 @@
 #+TITLE: 附內義丹旨綱目舉要--
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:35
 #+SOURCE: github.com/kanripo/KR5a0091 master a6658dec                
 内義丹旨綱目舉要
 　　　　門人梅巖林元鼎正夫述

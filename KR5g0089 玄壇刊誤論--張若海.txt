@@ -1,5 +1,5 @@
 #+TITLE: 玄壇刊誤論--張若海
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:13
 #+SOURCE: github.com/kanripo/KR5g0089 master e38a8c9c                
 玄壇刋誤論笙七
 　　　　悟微子張若海集

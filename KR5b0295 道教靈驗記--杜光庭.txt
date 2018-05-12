@@ -1,5 +1,5 @@
 #+TITLE: 道教靈驗記--杜光庭
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0295 master d71bd333                
 道教靈驗記序
 　　　宋徽宗御製

@@ -1,5 +1,5 @@
 #+TITLE: 太上洞神玄妙白猿真經--
-#+DATE: 2016-06-11 12:27:09
+#+DATE: 2018-05-12 10:21:57
 #+SOURCE: github.com/kanripo/KR5c0255 master 1acb6c51                
 太上洞神玄妙白猿眞經眞經
 　　　六甲神射式

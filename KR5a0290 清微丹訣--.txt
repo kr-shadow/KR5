@@ -1,5 +1,5 @@
 #+TITLE: 清微丹訣--
-#+DATE: 2016-06-11 12:26:52
+#+DATE: 2018-05-12 10:21:39
 #+SOURCE: github.com/kanripo/KR5a0290 master 5fc6ab0e                
 清微丹訣　　　　　　　　　　　芥八
 　　　清微隱眞合道章第一

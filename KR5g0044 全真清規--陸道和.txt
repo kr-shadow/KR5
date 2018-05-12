@@ -1,5 +1,5 @@
 #+TITLE: 全真清規--陸道和
-#+DATE: 2016-06-11 12:27:22
+#+DATE: 2018-05-12 10:22:12
 #+SOURCE: github.com/kanripo/KR5g0044 master 44dafd0b                
 全眞清規楹八
 　　　　姚江春庵通玄子陸道和編集

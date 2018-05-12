@@ -1,5 +1,5 @@
 #+TITLE: 太上洞玄靈寶太玄普慈勸世經--
-#+DATE: 2016-06-11 12:26:54
+#+DATE: 2018-05-12 10:21:41
 #+SOURCE: github.com/kanripo/KR5b0026 master bfe93b14                
 二經同卷字六
 　太上洞玄靈寳太玄普慈勸世經

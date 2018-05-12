@@ -1,5 +1,5 @@
 #+TITLE: 南華真經口義--林希逸
-#+DATE: 2016-06-11 12:27:05
+#+DATE: 2018-05-12 10:21:54
 #+SOURCE: github.com/kanripo/KR5c0128 master b04e76bd                
 莊子口義發題聲一
 莊子宋人也名周字子休生睢陽蒙縣在戰

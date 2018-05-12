@@ -1,5 +1,5 @@
 #+TITLE: 鶡冠子--陸佃
-#+DATE: 2016-06-11 12:27:19
+#+DATE: 2018-05-12 10:22:08
 #+SOURCE: github.com/kanripo/KR5f0009 master 318d27af                
 鶡冠子序顛十
 韓子曰鶡冠子十有六篇其詞雜黄老刑名

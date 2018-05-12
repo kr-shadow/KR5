@@ -1,5 +1,5 @@
 #+TITLE: 劉子--袁孝政
-#+DATE: 2016-06-11 12:27:13
+#+DATE: 2018-05-12 10:22:02
 #+SOURCE: github.com/kanripo/KR5d0053 master 36b9f481                
 劉子卷之一無一
 　　　　播州録事參軍袁孝政註

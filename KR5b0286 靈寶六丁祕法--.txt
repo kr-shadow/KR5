@@ -1,5 +1,5 @@
 #+TITLE: 靈寶六丁祕法--
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0286 master bd78d28c                
 靈寳六丁秘法五三
 黄帝曰一炁旣分隂陽得位五行配定六甲

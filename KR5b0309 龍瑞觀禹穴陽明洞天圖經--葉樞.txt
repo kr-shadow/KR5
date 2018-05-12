@@ -1,5 +1,5 @@
 #+TITLE: 龍瑞觀禹穴陽明洞天圖經--葉樞
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0309 master f9c2ecdb                
 龍瑞觀禹穴陽明洞天圖經鞠七
 　　　　　宋翰林學士李宗諤修定

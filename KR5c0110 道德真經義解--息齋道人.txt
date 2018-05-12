@@ -1,5 +1,5 @@
 #+TITLE: 道德真經義解--息齋道人
-#+DATE: 2016-06-11 12:27:04
+#+DATE: 2018-05-12 10:21:52
 #+SOURCE: github.com/kanripo/KR5c0110 master b703d7f7                
 道德眞經義解卷之一絲三
 　　　　　息齋道人解

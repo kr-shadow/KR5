@@ -1,5 +1,5 @@
 #+TITLE: 重陽立教十五論--王嚞
-#+DATE: 2016-06-11 12:27:22
+#+DATE: 2018-05-12 10:22:12
 #+SOURCE: github.com/kanripo/KR5g0042 master 3621ae44                
 重陽立教十五論楹七
 　　　第一住庵

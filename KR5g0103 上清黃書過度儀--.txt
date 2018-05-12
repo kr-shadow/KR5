@@ -1,5 +1,5 @@
 #+TITLE: 上清黃書過度儀--
-#+DATE: 2016-06-11 12:27:24
+#+DATE: 2018-05-12 10:22:13
 #+SOURCE: github.com/kanripo/KR5g0103 master a4c18edf                
 上清黄書過度儀階七
 　夫弟子在師治受道不得過二十不過度

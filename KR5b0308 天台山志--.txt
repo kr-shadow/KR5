@@ -1,5 +1,5 @@
 #+TITLE: 天台山志--
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0308 master 1f97a78a                
 天台山志鞠六
 　　　郡志辯

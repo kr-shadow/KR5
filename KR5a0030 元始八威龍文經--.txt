@@ -1,5 +1,5 @@
 #+TITLE: 元始八威龍文經--
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0030 master f2cc1529                
 三經同卷妟九
 　元始八威龍文經

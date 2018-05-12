@@ -1,5 +1,5 @@
 #+TITLE: 金籙祈禱早朝儀--
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0178 master a7117a81                
 三儀同卷軆六
 　金籙祈壽早朝儀

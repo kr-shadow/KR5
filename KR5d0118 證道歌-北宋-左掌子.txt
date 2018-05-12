@@ -1,5 +1,5 @@
 #+TITLE: 證道歌-北宋-左掌子
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:05
 #+SOURCE: github.com/kanripo/KR5d0118 master 73784310                
 二篇同卷婦六
 　證道歌

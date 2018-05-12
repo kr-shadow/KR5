@@ -1,5 +1,5 @@
 #+TITLE: 太上靈寶玉匱明真齋懺方儀--
-#+DATE: 2016-06-11 12:26:59
+#+DATE: 2018-05-12 10:21:46
 #+SOURCE: github.com/kanripo/KR5b0222 master 309dde67                
 二儀同卷化三
 　太上靈寳玉匱明眞齋懴方儀

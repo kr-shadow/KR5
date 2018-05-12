@@ -1,5 +1,5 @@
 #+TITLE: 三才定位圖--張商英
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0156 master 74cd65d6                
 二圖同卷調十
 　三才定位圖

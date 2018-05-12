@@ -1,5 +1,5 @@
 #+TITLE: 學仙辨真訣-北宋-
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0139 master d68bbc6a                
 二篇同卷成七
 　學仙辨眞訣

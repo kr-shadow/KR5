@@ -1,5 +1,5 @@
 #+TITLE: 上清豁落七元符-唐-
-#+DATE: 2016-06-11 12:26:54
+#+DATE: 2018-05-12 10:21:42
 #+SOURCE: github.com/kanripo/KR5b0076 master 1bab0509                
 三篇同卷衣九
 　上清豁落七元符

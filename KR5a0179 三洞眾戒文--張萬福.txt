@@ -1,5 +1,5 @@
 #+TITLE: 三洞眾戒文--張萬福
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0179 master 6b26dc46                
 三洞衆戒文序雨二
 　　三洞弟子京太清觀道士張萬福編録

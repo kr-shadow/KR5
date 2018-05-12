@@ -1,5 +1,5 @@
 #+TITLE: 金籙大齋補職說戒儀--
-#+DATE: 2016-06-11 12:26:57
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0170 master 55415e5d                
 金籙大齋𥙷職說戒儀
 　　　侍職立師寳前啓白

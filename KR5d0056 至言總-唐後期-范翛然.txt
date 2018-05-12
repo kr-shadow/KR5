@@ -1,5 +1,5 @@
 #+TITLE: 至言總-唐後期-范翛然
-#+DATE: 2016-06-11 12:27:14
+#+DATE: 2018-05-12 10:22:03
 #+SOURCE: github.com/kanripo/KR5d0056 master 8093bd21                
 至言緫卷之一去一
 　　　　會稽禹穴道士范翛然撰

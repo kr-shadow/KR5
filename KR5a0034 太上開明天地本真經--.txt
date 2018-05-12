@@ -1,5 +1,5 @@
 #+TITLE: 太上開明天地本真經--
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0034 master 3daee4bc                
 二經同卷妟十一
 　太上開明天地本眞經

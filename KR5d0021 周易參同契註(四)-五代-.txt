@@ -1,5 +1,5 @@
 #+TITLE: 周易參同契註(四)-五代-
-#+DATE: 2016-06-11 12:27:12
+#+DATE: 2018-05-12 10:22:01
 #+SOURCE: github.com/kanripo/KR5d0021 master 4c64bfb8                
 周易參同契註卷上容七
 　　　　　　　　　　　無名氏註

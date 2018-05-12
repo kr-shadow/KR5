@@ -1,5 +1,5 @@
 #+TITLE: 太古集--郝大通
-#+DATE: 2016-06-11 12:27:18
+#+DATE: 2018-05-12 10:22:07
 #+SOURCE: github.com/kanripo/KR5e0063 master abaeb64b                
 太古集序友十
 余少時在燕趙間聞太古真人之名然未嘗

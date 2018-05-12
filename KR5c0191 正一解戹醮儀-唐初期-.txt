@@ -1,5 +1,5 @@
 #+TITLE: 正一解戹醮儀-唐初期-
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0191 master a8ea787a                
 正一解戹醮儀忠四
 　凡人年命有戹元辰死忌五羅筭盡陽九

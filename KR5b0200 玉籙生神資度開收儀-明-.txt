@@ -1,5 +1,5 @@
 #+TITLE: 玉籙生神資度開收儀-明-
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0200 master 1c787596                
 玉籙生神資度開收儀率四
 　早朝

@@ -1,5 +1,5 @@
 #+TITLE: 呂純陽真人沁園春丹詞註解--呂喦
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0137 master a1a99f8f                
 二篇同卷成六
 　吕纯陽眞人沁園春丹詞註解

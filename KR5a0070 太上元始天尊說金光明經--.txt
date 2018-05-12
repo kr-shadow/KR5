@@ -1,5 +1,5 @@
 #+TITLE: 太上元始天尊說金光明經--
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0070 master 05322a4c                
 太上元始天尊說金光明經
 爾時

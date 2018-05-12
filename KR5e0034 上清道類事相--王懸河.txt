@@ -1,5 +1,5 @@
 #+TITLE: 上清道類事相--王懸河
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0034 master cc53cd75                
 上清道類事相卷之一姑八
 　　　　大唐陸誨羽客王縣河修

@@ -1,5 +1,5 @@
 #+TITLE: 南嶽小錄--李沖昭
-#+DATE: 2016-06-11 12:26:56
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0137 master f350195b                
 南嶽小録(并序)
 　　　　道士李(沖昭)述

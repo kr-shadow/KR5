@@ -1,5 +1,5 @@
 #+TITLE: 三洞法服科戒文--張萬福
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0185 master abf8e3b0                
 三洞法服科戒文力五
 　　三洞弟子京太清觀道士張萬福編録

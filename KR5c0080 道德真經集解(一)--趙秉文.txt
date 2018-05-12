@@ -1,5 +1,5 @@
 #+TITLE: 道德真經集解(一)--趙秉文
-#+DATE: 2016-06-11 12:27:03
+#+DATE: 2018-05-12 10:21:51
 #+SOURCE: github.com/kanripo/KR5c0080 master ea5529c0                
 道德眞經集解卷之一𠕏一
 　　　　趙學士集解

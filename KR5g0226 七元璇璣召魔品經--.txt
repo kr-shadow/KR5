@@ -1,5 +1,5 @@
 #+TITLE: 七元璇璣召魔品經--
-#+DATE: 2016-06-11 12:27:26
+#+DATE: 2018-05-12 10:22:16
 #+SOURCE: github.com/kanripo/KR5g0226 master 485ee194                
 二經同卷群二
 　七元璇璣召魔品經

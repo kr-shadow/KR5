@@ -1,5 +1,5 @@
 #+TITLE: 易圖通變--雷思齊
-#+DATE: 2016-06-11 12:27:12
+#+DATE: 2018-05-12 10:22:01
 #+SOURCE: github.com/kanripo/KR5d0034 master 9024093b                
 易圖通變卷之一
 　　　　臨川道士雷思齊學

@@ -1,5 +1,5 @@
 #+TITLE: 許太史真君圖傳--
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0124 master 42e30108                
 許太史真君圖傳卷上國九
 　　　玉陛錫詔

@@ -1,5 +1,5 @@
 #+TITLE: 三光注齡資福延壽妙經--
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:33
 #+SOURCE: github.com/kanripo/KR5a0020 master fbfc556e                
 三光注齡資福延壽妙經
 道言吾隱六合之内處明堂之中守鍊精魄

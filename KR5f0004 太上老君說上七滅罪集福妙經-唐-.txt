@@ -1,5 +1,5 @@
 #+TITLE: 太上老君說上七滅罪集福妙經-唐-
-#+DATE: 2016-06-11 12:27:19
+#+DATE: 2018-05-12 10:22:08
 #+SOURCE: github.com/kanripo/KR5f0004 master 8e7fb006                
 太上老君說上七滅罪集福妙經
 爾時

@@ -1,5 +1,5 @@
 #+TITLE: 周易參同契分章註-元-陳致虛
-#+DATE: 2016-06-11 12:27:12
+#+DATE: 2018-05-12 10:22:01
 #+SOURCE: github.com/kanripo/KR5d0023 master debea538                
 欽定四庫全書　　　　　　　子部十四
 　周易參同契分章注　　　　　道家𩔖

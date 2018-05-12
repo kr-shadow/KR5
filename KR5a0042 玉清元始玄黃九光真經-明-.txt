@@ -1,5 +1,5 @@
 #+TITLE: 玉清元始玄黃九光真經-明-
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0042 master 8e48a833                
 七經同卷辰八
 　玉清元始玄黄九光眞經

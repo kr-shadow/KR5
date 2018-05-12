@@ -1,5 +1,5 @@
 #+TITLE: 南嶽九真人傳-北宋-廖侁
-#+DATE: 2016-06-11 12:26:56
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0136 master 1d71ea96                
 二傳同卷虞八
 　南嶽九眞人傳

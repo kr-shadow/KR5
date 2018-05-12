@@ -1,5 +1,5 @@
 #+TITLE: 進延壽赤書表--
-#+DATE: 2016-06-11 12:27:09
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0274 master a881f516                
 進延壽赤書表夙六
 　　　　唐終南山林臣裴鉉上表

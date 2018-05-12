@@ -1,5 +1,5 @@
 #+TITLE: 正一醮墓儀-唐-
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0199 master 0a403eb4                
 正一醮墓儀
 　凡人墓山年月深久或有崩壞須得𥙷葺

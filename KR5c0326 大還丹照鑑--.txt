@@ -1,5 +1,5 @@
 #+TITLE: 大還丹照鑑--
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0326 master 91f31f1d                
 大還丹照鑑如六
 夫大還丹者虚無之系造化之基包一氣以

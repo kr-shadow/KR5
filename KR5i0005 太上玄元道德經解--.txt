@@ -1,5 +1,5 @@
 #+TITLE: 太上玄元道德經解--
-#+DATE: 2016-06-11 12:27:29
+#+DATE: 2018-05-12 10:22:19
 #+SOURCE: github.com/kanripo/KR5i0005 master d5da707b                
 太上道德經解序
 夫至人能爲至文至文卽寓至理維我

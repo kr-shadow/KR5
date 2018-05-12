@@ -1,5 +1,5 @@
 #+TITLE: 高上玉皇胎息經--
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:33
 #+SOURCE: github.com/kanripo/KR5a0014 master e68cdd4d                
 高上玉皇胎息經
 玉皇天尊曰胎從伏氣中結氣從有胎中息

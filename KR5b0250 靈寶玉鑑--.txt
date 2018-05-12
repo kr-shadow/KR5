@@ -1,5 +1,5 @@
 #+TITLE: 靈寶玉鑑--
-#+DATE: 2016-06-11 12:26:59
+#+DATE: 2018-05-12 10:21:47
 #+SOURCE: github.com/kanripo/KR5b0250 master 89490086                
 靈寳玉鑑卷之一頼二
 　道法𥼶疑門

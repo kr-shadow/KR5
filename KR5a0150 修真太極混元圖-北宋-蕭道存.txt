@@ -1,5 +1,5 @@
 #+TITLE: 修真太極混元圖-北宋-蕭道存
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0150 master a23423f8                
 二圗同卷調五
 　修眞太極混元圗

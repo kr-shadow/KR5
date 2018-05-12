@@ -1,5 +1,5 @@
 #+TITLE: 庚道集-明-
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0353 master 1235f9c2                
 庚道集卷之一盛一
 　　　砒匱養丹陽法

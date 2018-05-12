@@ -1,5 +1,5 @@
 #+TITLE: 大丹記--魏伯陽
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0297 master fb68e4d6                
 二篇同卷似一
 　大丹記

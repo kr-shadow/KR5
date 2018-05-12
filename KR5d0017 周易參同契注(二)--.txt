@@ -1,5 +1,5 @@
 #+TITLE: 周易參同契注(二)--
-#+DATE: 2016-06-11 12:27:12
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5d0017 master 10c87444                
 周易參同契注卷上映八
 　　　　無名氏注

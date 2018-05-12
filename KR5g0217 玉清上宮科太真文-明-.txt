@@ -1,5 +1,5 @@
 #+TITLE: 玉清上宮科太真文-明-
-#+DATE: 2016-06-11 12:27:26
+#+DATE: 2018-05-12 10:22:16
 #+SOURCE: github.com/kanripo/KR5g0217 master 6bb15edf                
 玉清上宫科太眞文亦三
 　　違師忽道攻師伐道

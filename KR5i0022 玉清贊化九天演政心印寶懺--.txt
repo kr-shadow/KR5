@@ -1,5 +1,5 @@
 #+TITLE: 玉清贊化九天演政心印寶懺--
-#+DATE: 2016-06-11 12:27:29
+#+DATE: 2018-05-12 10:22:20
 #+SOURCE: github.com/kanripo/KR5i0022 master 971c49af                
 懴序
 關聖帝君曰

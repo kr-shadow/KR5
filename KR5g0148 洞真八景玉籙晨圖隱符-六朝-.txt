@@ -1,5 +1,5 @@
 #+TITLE: 洞真八景玉籙晨圖隱符-六朝-
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:14
 #+SOURCE: github.com/kanripo/KR5g0148 master 3cee269d                
 洞眞八景玉籙晨圖隱符
 　　　　上相青童君撰

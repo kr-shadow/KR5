@@ -1,5 +1,5 @@
 #+TITLE: 玄都律文--
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0189 master 2246f279                
 玄都律文雨士
 　　　虚无善惡律

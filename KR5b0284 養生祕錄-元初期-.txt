@@ -1,5 +1,5 @@
 #+TITLE: 養生祕錄-元初期-
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0284 master 96dc38d9                
 養生祕録大九
 　　　玉溪子丹房語録

@@ -1,5 +1,5 @@
 #+TITLE: 易林上下經(焦氏易林)--焦贛
-#+DATE: 2016-06-11 12:27:28
+#+DATE: 2018-05-12 10:22:18
 #+SOURCE: github.com/kanripo/KR5h0044 master 0a24f7e6                
 焦氏易林序
 　　東萊人費直字長翁

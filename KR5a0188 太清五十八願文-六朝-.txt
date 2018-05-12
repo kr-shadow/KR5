@@ -1,5 +1,5 @@
 #+TITLE: 太清五十八願文-六朝-
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0188 master d42ab8d3                
 太清五十八願文
 若見居家妻子當願一切早出愛獄攝意奉

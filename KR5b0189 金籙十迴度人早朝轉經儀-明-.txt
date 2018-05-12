@@ -1,5 +1,5 @@
 #+TITLE: 金籙十迴度人早朝轉經儀-明-
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0189 master 593ea7da                
 三儀同卷軆十
 　金籙十迴度人早朝轉經儀

@@ -1,5 +1,5 @@
 #+TITLE: 太上洞玄靈寶五嶽真符-唐-
-#+DATE: 2016-06-11 12:26:54
+#+DATE: 2018-05-12 10:21:42
 #+SOURCE: github.com/kanripo/KR5b0074 master c10301d6                
 太上洞玄靈寳五嶽神符衣七
 

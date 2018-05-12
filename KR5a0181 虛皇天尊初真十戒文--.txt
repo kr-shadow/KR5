@@ -1,5 +1,5 @@
 #+TITLE: 虛皇天尊初真十戒文--
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0181 master 5466df81                
 虚皇天尊初真十戒文
 　謹按

@@ -1,5 +1,5 @@
 #+TITLE: 道跡靈仙記-六朝-
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0302 master a8cf1fa3                
 道迹靈仙記惟七
 　　　六宫名第一

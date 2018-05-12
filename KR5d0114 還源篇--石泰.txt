@@ -1,5 +1,5 @@
 #+TITLE: 還源篇--石泰
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:05
 #+SOURCE: github.com/kanripo/KR5d0114 master 285708f1                
 三篇同卷婦四
 　還源篇

@@ -1,5 +1,5 @@
 #+TITLE: 太上衛靈神化九轉丹砂法--
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0290 master c9f22bb0                
 三篇同卷清六
 　太上衛靈神化九轉丹砂法

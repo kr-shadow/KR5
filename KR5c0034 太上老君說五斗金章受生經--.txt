@@ -1,5 +1,5 @@
 #+TITLE: 太上老君說五斗金章受生經--
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0034 master a72618ff                
 太上老君說五斗金章受生經
 爾時

@@ -1,5 +1,5 @@
 #+TITLE: 太上說南斗六司延壽度人妙經--
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0005 master 2cb6c0cd                
 五經同卷傷二
 太上說南斗六司延壽度人妙經

@@ -1,5 +1,5 @@
 #+TITLE: 三極至命筌諦--王慶升
-#+DATE: 2016-06-11 12:26:52
+#+DATE: 2018-05-12 10:21:39
 #+SOURCE: github.com/kanripo/KR5a0287 master 6364cbd9                
 三極至命筌蹄　　　　　　　　　芥五
 　　　　果　齋　王　慶　升　述

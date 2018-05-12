@@ -1,5 +1,5 @@
 #+TITLE: 丹陽神光燦--馬鈺
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0052 master debb8a2b                
 丹陽神光燦序連一
 道在邇而求諸遠事在易而求之難者此世

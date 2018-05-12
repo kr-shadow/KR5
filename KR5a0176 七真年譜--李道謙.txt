@@ -1,5 +1,5 @@
 #+TITLE: 七真年譜--李道謙
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0176 master 08836ce8                
 七眞年譜致十
 　　門下夷山李道謙編

@@ -1,5 +1,5 @@
 #+TITLE: 靈寶淨明院行遣式-南宋-周方文
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5b0323 master fcada769                
 二篇同卷毀十一
 　靈寳淨明院行遣式

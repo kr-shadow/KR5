@@ -1,5 +1,5 @@
 #+TITLE: 南華真經循本--羅勉道
-#+DATE: 2016-06-11 12:27:06
+#+DATE: 2018-05-12 10:21:54
 #+SOURCE: github.com/kanripo/KR5c0135 master 27ef7c69                
 莊子聴七
 　莊子宋人也名周字子休生睢陽蒙縣嘗

@@ -1,5 +1,5 @@
 #+TITLE: 上洞心丹經訣-北宋-
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0350 master 4c27b028                
 上洞心丹經訣上之二
 　　　　太極眞人嗣孫手述

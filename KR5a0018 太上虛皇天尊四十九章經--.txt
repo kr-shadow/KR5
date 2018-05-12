@@ -1,5 +1,5 @@
 #+TITLE: 太上虛皇天尊四十九章經--
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:33
 #+SOURCE: github.com/kanripo/KR5a0018 master 8fc5cb14                
 太上虚皇天尊四十九章經盈十一
 　　　立功章第一

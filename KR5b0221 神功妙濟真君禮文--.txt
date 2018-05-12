@@ -1,5 +1,5 @@
 #+TITLE: 神功妙濟真君禮文--
-#+DATE: 2016-06-11 12:26:59
+#+DATE: 2018-05-12 10:21:46
 #+SOURCE: github.com/kanripo/KR5b0221 master fdc4c7ec                
 神功妙濟眞君禮文化二
 　　　法事如式

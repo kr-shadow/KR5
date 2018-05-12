@@ -1,5 +1,5 @@
 #+TITLE: 上清握中訣--陶弘景
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0141 master 40564ae0                
 上清握中訣卷上成八
 　闕文

@@ -1,5 +1,5 @@
 #+TITLE: 太上洞神天公消魔護國經--
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0035 master bb22ef4c                
 二經同卷女三
 　太上洞神天公消魔護國經(上中下)

@@ -1,5 +1,5 @@
 #+TITLE: 全真集玄祕要--李道純
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:39
 #+SOURCE: github.com/kanripo/KR5a0252 master 8336bf3e                
 全眞集玄祕要光八
 　　　　清菴李道純著

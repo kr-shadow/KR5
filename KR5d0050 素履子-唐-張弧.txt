@@ -1,5 +1,5 @@
 #+TITLE: 素履子-唐-張弧
-#+DATE: 2016-06-11 12:27:13
+#+DATE: 2018-05-12 10:22:02
 #+SOURCE: github.com/kanripo/KR5d0050 master de34ebc6                
 素履子卷上
 　　將仕郎試大理評事賜緋魚袋張弧撰

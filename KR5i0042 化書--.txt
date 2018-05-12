@@ -1,5 +1,5 @@
 #+TITLE: 化書--
-#+DATE: 2016-06-11 12:27:30
+#+DATE: 2018-05-12 10:22:20
 #+SOURCE: github.com/kanripo/KR5i0042 master 4dc6c51f                
 化書新聲序
 孔子曰知變化之道者其知神之所爲乎夫物胡以變而又胡

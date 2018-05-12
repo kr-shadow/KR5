@@ -1,5 +1,5 @@
 #+TITLE: 谷神篇--林轅
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:39
 #+SOURCE: github.com/kanripo/KR5a0253 master 33b2e82e                
 谷神篇叙光九
 古聖帝王官天下者首以神仙之道默相傳

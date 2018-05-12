@@ -1,5 +1,5 @@
 #+TITLE: 金木萬靈論-唐-葛洪
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0340 master ca3ae208                
 金木萬靈論
 　　　葛稚川譔

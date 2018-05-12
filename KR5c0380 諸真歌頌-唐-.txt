@@ -1,5 +1,5 @@
 #+TITLE: 諸真歌頌-唐-
-#+DATE: 2016-06-11 12:27:12
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5c0380 master 58b46ab0                
 諸眞歌頌淵六
 　　　太微天帝君讃大有妙經頌

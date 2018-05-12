@@ -1,5 +1,5 @@
 #+TITLE: 靈寶淨明院真師密誥--
-#+DATE: 2016-06-11 12:26:59
+#+DATE: 2018-05-12 10:21:47
 #+SOURCE: github.com/kanripo/KR5b0262 master b7a81ca5                
 靈寳淨明院眞師宻誥
 天樞院録事羅照先奉

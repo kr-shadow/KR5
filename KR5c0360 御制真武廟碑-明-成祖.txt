@@ -1,5 +1,5 @@
 #+TITLE: 御制真武廟碑-明-成祖
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5c0360 master 00957dca                
 御製眞武廟碑
 　朕惟凡有功德於國者無間於幽冥必有

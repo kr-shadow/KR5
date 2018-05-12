@@ -1,5 +1,5 @@
 #+TITLE: 凝陽董真人遇仙記--祿昭聞
-#+DATE: 2016-06-11 12:26:53
+#+DATE: 2018-05-12 10:21:40
 #+SOURCE: github.com/kanripo/KR5a0320 master 323b7b40                
 凝陽董眞人遇仙記帝十一
 　　　　禄昭聞編纂

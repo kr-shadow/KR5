@@ -1,5 +1,5 @@
 #+TITLE: 道書援神契--
-#+DATE: 2016-06-11 12:27:22
+#+DATE: 2018-05-12 10:22:12
 #+SOURCE: github.com/kanripo/KR5g0040 master 6f98aa5b                
 道書援神契序楹五
 世之議老子教者皆曰異端其初本於儒而

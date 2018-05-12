@@ -1,5 +1,5 @@
 #+TITLE: 太上老君外日用妙經--
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0027 master eeedc776                
 太上老君外日用妙經
 　敬天地重日月懼國法依王道

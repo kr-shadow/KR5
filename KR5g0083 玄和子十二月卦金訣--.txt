@@ -1,5 +1,5 @@
 #+TITLE: 玄和子十二月卦金訣--
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:13
 #+SOURCE: github.com/kanripo/KR5g0083 master 9fdce46b                
 玄和子十二月卦金訣吹九
 　復卦初爻起一陽子時符節轉天罡(復卦)

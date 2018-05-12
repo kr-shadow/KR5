@@ -1,5 +1,5 @@
 #+TITLE: 公孫龍子--公孫龍
-#+DATE: 2016-06-11 12:27:19
+#+DATE: 2018-05-12 10:22:08
 #+SOURCE: github.com/kanripo/KR5f0006 master 3f94cfd1                
 公孫龍子卷上顛三
 　　　　趙　人　公　孫　龍　著

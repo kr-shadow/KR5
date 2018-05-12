@@ -1,5 +1,5 @@
 #+TITLE: 仙樂集--劉處玄
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0043 master 28a6dc54                
 仙樂集卷之一弟一
 　　　　神山無爲應縁長生子劉處玄造

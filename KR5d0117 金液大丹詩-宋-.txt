@@ -1,5 +1,5 @@
 #+TITLE: 金液大丹詩-宋-
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:05
 #+SOURCE: github.com/kanripo/KR5d0117 master 47d5f6c4                
 金液大丹詩婦五
 一物産乾坤二儀生藥根隂靈合地魄陽氣

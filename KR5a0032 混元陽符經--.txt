@@ -1,5 +1,5 @@
 #+TITLE: 混元陽符經--
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0032 master d6ec7361                
 混元陽符經
 晦𦣱之功影響不眞清清之炁朴朴昏濛滚

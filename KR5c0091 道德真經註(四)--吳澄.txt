@@ -1,5 +1,5 @@
 #+TITLE: 道德真經註(四)--吳澄
-#+DATE: 2016-06-11 12:27:03
+#+DATE: 2018-05-12 10:21:51
 #+SOURCE: github.com/kanripo/KR5c0091 master 39f7998c                
 老子短一
 　　　臨川吴澄述

@@ -1,5 +1,5 @@
 #+TITLE: 修真十書鍾呂傳道集-北宋-鍾離權
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:39
 #+SOURCE: github.com/kanripo/KR5a0266 master e3cb8fe1                
 修直十書卷之十四李一
 　鍾吕傳道集

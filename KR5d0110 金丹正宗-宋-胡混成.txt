@@ -1,5 +1,5 @@
 #+TITLE: 金丹正宗-宋-胡混成
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0110 master e246ec9a                
 二經同卷婦一
 　金丹正宗

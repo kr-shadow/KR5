@@ -1,5 +1,5 @@
 #+TITLE: 道德真經註(三)--蘇轍
-#+DATE: 2016-06-11 12:27:03
+#+DATE: 2018-05-12 10:21:50
 #+SOURCE: github.com/kanripo/KR5c0074 master ec6d5906                
 道德眞經註卷之一得七
 　　　　眉山蘇轍註

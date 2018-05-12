@@ -1,5 +1,5 @@
 #+TITLE: 九天三茅司命仙燈儀--
-#+DATE: 2016-06-11 12:26:50
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0205 master 2fb40fa5                
 九天三茅司命仙燈儀
 　　　法事如式

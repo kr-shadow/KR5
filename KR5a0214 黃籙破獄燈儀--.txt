@@ -1,5 +1,5 @@
 #+TITLE: 黃籙破獄燈儀--
-#+DATE: 2016-06-11 12:26:50
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0214 master 1362c2be                
 二燈儀同卷爲七
 　黄籙破獄燈儀

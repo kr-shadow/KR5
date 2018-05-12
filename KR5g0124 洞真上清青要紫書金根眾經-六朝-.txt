@@ -1,5 +1,5 @@
 #+TITLE: 洞真上清青要紫書金根眾經-六朝-
-#+DATE: 2016-06-11 12:27:24
+#+DATE: 2018-05-12 10:22:14
 #+SOURCE: github.com/kanripo/KR5g0124 master 09dedca0                
 洞眞上清青要紫書金根衆經卷上右三
 　　上相青童君撰

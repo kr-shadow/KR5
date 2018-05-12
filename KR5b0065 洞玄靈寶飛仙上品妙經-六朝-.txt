@@ -1,5 +1,5 @@
 #+TITLE: 洞玄靈寶飛仙上品妙經-六朝-
-#+DATE: 2016-06-11 12:26:54
+#+DATE: 2018-05-12 10:21:42
 #+SOURCE: github.com/kanripo/KR5b0065 master 9a7a49f2                
 四經同卷服七
 　洞玄靈寳飛仙上品妙經

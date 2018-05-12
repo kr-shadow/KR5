@@ -1,5 +1,5 @@
 #+TITLE: 太平兩同書--羅隱
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0037 master 7fa46348                
 太平兩同書卷上
 　　　貴賤第一

@@ -1,5 +1,5 @@
 #+TITLE: 上清諸真章頌-唐-
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0313 master 0394da41                
 上清諸真章頌養四
 　　　上清歩虚三契頌

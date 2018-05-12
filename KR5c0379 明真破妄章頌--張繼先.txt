@@ -1,5 +1,5 @@
 #+TITLE: 明真破妄章頌--張繼先
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5c0379 master 99647073                
 明眞破妄章頌
 　　　　虚靖張眞君著

@@ -1,5 +1,5 @@
 #+TITLE: 上清河圖寶籙-唐-
-#+DATE: 2016-06-11 12:27:26
+#+DATE: 2018-05-12 10:22:16
 #+SOURCE: github.com/kanripo/KR5g0205 master 208bbc33                
 上清河圖寶籙
 　九天眞人宫殿並取宜裝黑炁並青色

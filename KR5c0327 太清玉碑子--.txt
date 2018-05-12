@@ -1,5 +1,5 @@
 #+TITLE: 太清玉碑子--
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0327 master 386f80cc                
 二篇同卷如七
 　太清玉碑子

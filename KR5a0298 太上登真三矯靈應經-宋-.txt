@@ -1,5 +1,5 @@
 #+TITLE: 太上登真三矯靈應經-宋-
-#+DATE: 2016-06-11 12:26:52
+#+DATE: 2018-05-12 10:21:40
 #+SOURCE: github.com/kanripo/KR5a0298 master ba50ac44                
 修眞十書武夷集卷之四十五
 　　　　海　南　白　玉　蟾　著

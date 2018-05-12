@@ -1,5 +1,5 @@
 #+TITLE: 孫子遺說--鄭友賢
-#+DATE: 2016-06-11 12:27:19
+#+DATE: 2018-05-12 10:22:08
 #+SOURCE: github.com/kanripo/KR5f0015 master f4a87128                
 孫子序靜六
 　　　　魏武帝製

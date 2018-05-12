@@ -1,5 +1,5 @@
 #+TITLE: 仙苑編珠--王松年
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0301 master 9b68b7f4                
 仙苑編珠序惟四
 　　　　天台山道士王(松年)撰

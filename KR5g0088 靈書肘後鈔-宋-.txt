@@ -1,5 +1,5 @@
 #+TITLE: 靈書肘後鈔-宋-
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:13
 #+SOURCE: github.com/kanripo/KR5g0088 master b895dc76                
 靈書肘後鈔笙六
 且三元得五數是一將主也三將各得五數

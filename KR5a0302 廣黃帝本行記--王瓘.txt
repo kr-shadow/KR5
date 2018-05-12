@@ -1,5 +1,5 @@
 #+TITLE: 廣黃帝本行記--王瓘
-#+DATE: 2016-06-11 12:26:52
+#+DATE: 2018-05-12 10:21:40
 #+SOURCE: github.com/kanripo/KR5a0302 master faeacc99                
 廣黃帝本行記海一
 　　　　　唐閬州晉安縣主簿王瓘進

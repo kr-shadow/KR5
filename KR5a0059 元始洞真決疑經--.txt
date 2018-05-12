@@ -1,5 +1,5 @@
 #+TITLE: 元始洞真決疑經--
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0059 master 96d40582                
 二經同卷　　　　　　　宿五
 　元始洞真決疑經

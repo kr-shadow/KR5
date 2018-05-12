@@ -1,5 +1,5 @@
 #+TITLE: 素問入式運氣論奧--劉溫舒
-#+DATE: 2016-06-11 12:27:13
+#+DATE: 2018-05-12 10:22:02
 #+SOURCE: github.com/kanripo/KR5d0044 master b6ac225d                
 素問入式運氣論奥序所七
 　　　　朝散郎太醫學司業劉温舒撰

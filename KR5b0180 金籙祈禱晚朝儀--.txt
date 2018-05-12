@@ -1,5 +1,5 @@
 #+TITLE: 金籙祈禱晚朝儀--
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0180 master 81be7f28                
 金籙祈壽晚朝儀
 　　　法事如式

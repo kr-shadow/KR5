@@ -1,5 +1,5 @@
 #+TITLE: 悟真篇闡幽--
-#+DATE: 2016-06-11 12:27:30
+#+DATE: 2018-05-12 10:22:21
 #+SOURCE: github.com/kanripo/KR5i0059 master dc9fcae8                
 重刋道藏輯要
 　悟眞篇卷之上

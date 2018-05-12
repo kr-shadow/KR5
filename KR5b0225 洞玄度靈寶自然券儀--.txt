@@ -1,5 +1,5 @@
 #+TITLE: 洞玄度靈寶自然券儀--
-#+DATE: 2016-06-11 12:26:59
+#+DATE: 2018-05-12 10:21:46
 #+SOURCE: github.com/kanripo/KR5b0225 master a5976276                
 二儀同卷化五
 　洞玄度靈寳自然劵儀

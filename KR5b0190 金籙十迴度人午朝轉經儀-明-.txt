@@ -1,5 +1,5 @@
 #+TITLE: 金籙十迴度人午朝轉經儀-明-
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0190 master 0f676c5f                
 金籙十迴度人午朝轉經儀
 　　　師堂序立

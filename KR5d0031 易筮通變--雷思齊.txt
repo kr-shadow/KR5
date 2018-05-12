@@ -1,5 +1,5 @@
 #+TITLE: 易筮通變--雷思齊
-#+DATE: 2016-06-11 12:27:12
+#+DATE: 2018-05-12 10:22:01
 #+SOURCE: github.com/kanripo/KR5d0031 master 5cf6ed79                
 易筮通變卷上若八
 　　　　臨川道士雷思齊學

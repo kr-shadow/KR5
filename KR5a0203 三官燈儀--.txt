@@ -1,5 +1,5 @@
 #+TITLE: 三官燈儀--
-#+DATE: 2016-06-11 12:26:50
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0203 master 85da0201                
 五燈儀同卷爲三
 　三官燈儀玄帝燈儀

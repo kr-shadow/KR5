@@ -1,5 +1,5 @@
 #+TITLE: 草堂集--王丹桂
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0045 master 218b596a                
 草堂集弟八
 　　　　　　　五峯白雲子王先生撰

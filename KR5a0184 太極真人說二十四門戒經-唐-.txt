@@ -1,5 +1,5 @@
 #+TITLE: 太極真人說二十四門戒經-唐-
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0184 master c5f32afc                
 太極真人說二十四門戒經
 爾時

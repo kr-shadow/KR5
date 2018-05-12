@@ -1,5 +1,5 @@
 #+TITLE: 太上老君中經-漢後期-
-#+DATE: 2016-06-11 12:27:19
+#+DATE: 2018-05-12 10:22:08
 #+SOURCE: github.com/kanripo/KR5f0002 master 0e2ca84f                
 太上老君中經卷上退八
 　　　第一神仙

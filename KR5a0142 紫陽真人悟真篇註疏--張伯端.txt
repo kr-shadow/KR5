@@ -1,3 +1,3 @@
 #+TITLE: 紫陽真人悟真篇註疏--張伯端
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0142 master 4dcc061a                

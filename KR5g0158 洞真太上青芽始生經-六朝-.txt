@@ -1,5 +1,5 @@
 #+TITLE: 洞真太上青芽始生經-六朝-
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:15
 #+SOURCE: github.com/kanripo/KR5g0158 master 899592fb                
 二經同卷内九
 　　洞真太上青牙始生經

@@ -1,5 +1,5 @@
 #+TITLE: 易象圖說內篇--張理
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0162 master 95ed9ab0                
 易象圖說序雲五
 易之象與天地凖故於天地之理無所不該

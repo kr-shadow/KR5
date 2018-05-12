@@ -1,5 +1,5 @@
 #+TITLE: 通書--
-#+DATE: 2016-06-11 12:27:32
+#+DATE: 2018-05-12 10:22:22
 #+SOURCE: github.com/kanripo/KR5i0080 master a93eaa2a                
 　　誠上第一
 誠者聖人之本

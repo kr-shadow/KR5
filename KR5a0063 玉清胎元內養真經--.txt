@@ -1,5 +1,5 @@
 #+TITLE: 玉清胎元內養真經--
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0063 master 30635edc                
 九經同卷宿八
 　玉清胎元内養真經

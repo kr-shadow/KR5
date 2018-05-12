@@ -1,5 +1,5 @@
 #+TITLE: 陰符玄解--
-#+DATE: 2016-06-11 12:27:30
+#+DATE: 2018-05-12 10:22:20
 #+SOURCE: github.com/kanripo/KR5i0033 master 5b4c86ab                
 陰符玄解自序
 余昔丙子𡻕讀禮於淸溪山中曾以是經叩請於嵩山先生曰

@@ -1,5 +1,5 @@
 #+TITLE: 龍虎中丹訣--
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:38
 #+SOURCE: github.com/kanripo/KR5a0229 master 5f94ebfa                
 龍虎中丹訣
 元始道要妙本冲和朴散兩儀氣降萬物生

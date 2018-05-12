@@ -1,5 +1,5 @@
 #+TITLE: 周氏冥通記--周子良
-#+DATE: 2016-06-11 12:26:53
+#+DATE: 2018-05-12 10:21:40
 #+SOURCE: github.com/kanripo/KR5a0314 master c1dcbcd0                
 周氏冥通記卷之一翔六
 玄人周子良字元龢茅山陶隱居之弟子也

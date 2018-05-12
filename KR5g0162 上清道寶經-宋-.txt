@@ -1,5 +1,5 @@
 #+TITLE: 上清道寶經-宋-
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:15
 #+SOURCE: github.com/kanripo/KR5g0162 master 311b2218                
 上清道寳經卷之一逹一
 　　經品第一

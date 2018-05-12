@@ -1,5 +1,5 @@
 #+TITLE: 太上洞玄靈寶本行宿緣經-六朝-
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:05
 #+SOURCE: github.com/kanripo/KR5e0016 master 1b7d6b7a                
 二經同卷毋三
 　太上洞玄靈寳本行宿縁經

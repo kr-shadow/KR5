@@ -1,5 +1,5 @@
 #+TITLE: 太上昇玄消災護命妙經註--李道純
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:35
 #+SOURCE: github.com/kanripo/KR5a0102 master 12ad40cb                
 二經同巻收九
 　太上昇玄消災護命妙經註

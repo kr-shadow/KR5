@@ -1,5 +1,5 @@
 #+TITLE: 靈寶五經提綱--
-#+DATE: 2016-06-11 12:26:59
+#+DATE: 2018-05-12 10:21:46
 #+SOURCE: github.com/kanripo/KR5b0232 master fe9e34ff                
 三經同卷被一
 　靈寳五經提綱

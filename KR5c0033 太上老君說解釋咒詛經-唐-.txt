@@ -1,5 +1,5 @@
 #+TITLE: 太上老君說解釋咒詛經-唐-
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0033 master 4eaff0fa                
 太上老君說解釋呪詛經
 爾時

@@ -1,5 +1,5 @@
 #+TITLE: 參同契五相類祕要--魏伯陽
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0303 master 1cd18fd7                
 參同契五相類祕要似八
 　　　　太素真人魏伯陽演

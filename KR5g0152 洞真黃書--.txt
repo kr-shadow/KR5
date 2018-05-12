@@ -1,5 +1,5 @@
 #+TITLE: 洞真黃書--
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:15
 #+SOURCE: github.com/kanripo/KR5g0152 master a216d5bc                
 洞眞黄書廣十
 師曰願分别天地大度八生之法天地六合

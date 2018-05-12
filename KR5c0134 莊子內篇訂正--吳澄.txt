@@ -1,5 +1,5 @@
 #+TITLE: 莊子內篇訂正--吳澄
-#+DATE: 2016-06-11 12:27:06
+#+DATE: 2018-05-12 10:21:54
 #+SOURCE: github.com/kanripo/KR5c0134 master 47c63dfd                
 莊子内篇訂正卷上聴五
 　　　臨　　川　　吴　　澄　　迷

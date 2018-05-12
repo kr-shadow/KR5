@@ -1,5 +1,5 @@
 #+TITLE: 金液大丹口訣--鄭德安
-#+DATE: 2016-06-11 12:26:52
+#+DATE: 2018-05-12 10:21:39
 #+SOURCE: github.com/kanripo/KR5a0292 master 3a3514de                
 金液大丹口訣
 　　　　太微洞天白衣道者授

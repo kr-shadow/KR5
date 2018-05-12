@@ -1,5 +1,5 @@
 #+TITLE: 北斗七元金玄羽章--
-#+DATE: 2016-06-11 12:27:07
+#+DATE: 2018-05-12 10:21:55
 #+SOURCE: github.com/kanripo/KR5c0149 master 7c7e7fea                
 北斗七元金玄羽章
 　　貪狼星君玄章第一

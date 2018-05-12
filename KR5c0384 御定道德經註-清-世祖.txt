@@ -1,5 +1,5 @@
 #+TITLE: 御定道德經註-清-世祖
-#+DATE: 2016-06-11 12:27:12
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5c0384 master 22f8e244                
 　欽定四庫全書
 御製道徳經序

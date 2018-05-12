@@ -1,5 +1,5 @@
 #+TITLE: 道體論--通玄先生
-#+DATE: 2016-06-11 12:27:14
+#+DATE: 2018-05-12 10:22:03
 #+SOURCE: github.com/kanripo/KR5d0058 master 9483fedc                
 道體論序去七
 夫渾然未兆得喪無涯名質旣分則凡聖義

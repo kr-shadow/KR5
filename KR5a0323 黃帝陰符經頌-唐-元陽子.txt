@@ -1,5 +1,5 @@
 #+TITLE: 黃帝陰符經頌-唐-元陽子
-#+DATE: 2016-06-11 12:26:53
+#+DATE: 2018-05-12 10:21:40
 #+SOURCE: github.com/kanripo/KR5a0323 master 4d0e71de                
 黃帝陰符經頌島五
 　　　　元陽子頌

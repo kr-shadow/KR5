@@ -1,5 +1,5 @@
 #+TITLE: 內丹還元訣-元-
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:05
 #+SOURCE: github.com/kanripo/KR5d0121 master 6ae0dbe0                
 二篇同卷婦九
 　内丹還元訣

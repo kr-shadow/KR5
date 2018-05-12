@@ -1,5 +1,5 @@
 #+TITLE: 洞真太上金篇虎符真文經-六朝-
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:14
 #+SOURCE: github.com/kanripo/KR5g0145 master 835480a9                
 洞眞太上金篇虎符眞文經
 

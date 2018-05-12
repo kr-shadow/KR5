@@ -1,5 +1,5 @@
 #+TITLE: 太極左仙公說神符經--
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:05
 #+SOURCE: github.com/kanripo/KR5e0019 master 682acd47                
 二經同卷母五
 　太極左仙公說神符經

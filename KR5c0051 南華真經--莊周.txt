@@ -1,5 +1,5 @@
 #+TITLE: 南華真經--莊周
-#+DATE: 2016-06-11 12:27:02
+#+DATE: 2018-05-12 10:21:50
 #+SOURCE: github.com/kanripo/KR5c0051 master 24fa4300                
 南華眞經序
 　　　　　　　　河南郭象子玄撰

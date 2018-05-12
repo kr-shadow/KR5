@@ -1,5 +1,5 @@
 #+TITLE: 道德真經集註釋文--彭耜
-#+DATE: 2016-06-11 12:27:03
+#+DATE: 2018-05-12 10:21:51
 #+SOURCE: github.com/kanripo/KR5c0096 master 953c576b                
 道德眞經集註釋文
 　　　　宋　鶴　林　彭　耜　纂　集

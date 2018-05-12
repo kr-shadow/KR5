@@ -1,5 +1,5 @@
 #+TITLE: 老子說畧-清-張爾岐
-#+DATE: 2016-06-11 12:27:12
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5c0385 master f216c2d5                
 欽定四庫全書　　　　子部十四
 　老子説略　　　　　　　道家𩔖

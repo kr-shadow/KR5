@@ -1,5 +1,5 @@
 #+TITLE: 洞靈真經--何璨
-#+DATE: 2016-06-11 12:27:06
+#+DATE: 2018-05-12 10:21:54
 #+SOURCE: github.com/kanripo/KR5c0141 master e1670874                
 洞靈眞經卷上璧十三
 　　　　　　　何璨注

@@ -1,5 +1,5 @@
 #+TITLE: 金蓮正宗記--秦志安
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0174 master e5cba7ec                
 金蓮正宗記序致四
 道無終始教有後先或曰道與教不同乎曰

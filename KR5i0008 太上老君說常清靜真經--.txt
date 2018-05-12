@@ -1,5 +1,5 @@
 #+TITLE: 太上老君說常清靜真經--
-#+DATE: 2016-06-11 12:27:29
+#+DATE: 2018-05-12 10:22:19
 #+SOURCE: github.com/kanripo/KR5i0008 master 5b67ff60                
 重刊道藏輯要
 太上老君說常淸靜眞經

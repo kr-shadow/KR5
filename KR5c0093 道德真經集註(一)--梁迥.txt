@@ -1,5 +1,5 @@
 #+TITLE: 道德真經集註(一)--梁迥
-#+DATE: 2016-06-11 12:27:03
+#+DATE: 2018-05-12 10:21:51
 #+SOURCE: github.com/kanripo/KR5c0093 master 0616084e                
 道德眞經集註序扉一
 　　　唐明皇撰

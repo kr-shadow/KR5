@@ -1,5 +1,5 @@
 #+TITLE: 黃帝內經素問補註釋文--王冰
-#+DATE: 2016-06-11 12:27:13
+#+DATE: 2018-05-12 10:22:01
 #+SOURCE: github.com/kanripo/KR5d0040 master e3dd1fb2                
 黄帝内經素問表慎一
 臣聞安不忘危存不忘亡者往聖之先務求

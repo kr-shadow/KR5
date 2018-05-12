@@ -1,5 +1,5 @@
 #+TITLE: 橐籥子--祝洞天
-#+DATE: 2016-06-11 12:27:20
+#+DATE: 2018-05-12 10:22:09
 #+SOURCE: github.com/kanripo/KR5f0022 master 1cae074a                
 槖籥子(隂丹内/篇附)志八
 　　　三道明眞反本第一

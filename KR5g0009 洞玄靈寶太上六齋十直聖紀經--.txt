@@ -1,5 +1,5 @@
 #+TITLE: 洞玄靈寶太上六齋十直聖紀經--
-#+DATE: 2016-06-11 12:27:20
+#+DATE: 2018-05-12 10:22:09
 #+SOURCE: github.com/kanripo/KR5g0009 master 9198d4ef                
 洞玄靈寳太上六齋十直聖紀經
 　　　道敎五戒

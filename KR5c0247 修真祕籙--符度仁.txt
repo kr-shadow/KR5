@@ -1,5 +1,5 @@
 #+TITLE: 修真祕籙--符度仁
-#+DATE: 2016-06-11 12:27:09
+#+DATE: 2018-05-12 10:21:57
 #+SOURCE: github.com/kanripo/KR5c0247 master d1362dd5                
 修真袐録
 　　　　前商州豐陽縣主薄符度仁纂

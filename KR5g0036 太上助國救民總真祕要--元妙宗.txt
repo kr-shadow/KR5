@@ -1,5 +1,5 @@
 #+TITLE: 太上助國救民總真祕要--元妙宗
-#+DATE: 2016-06-11 12:27:22
+#+DATE: 2018-05-12 10:22:12
 #+SOURCE: github.com/kanripo/KR5g0036 master 99cfad18                
 太上助國救民緫真祕要卷之一
 　　　　洞幽法師元妙宗編

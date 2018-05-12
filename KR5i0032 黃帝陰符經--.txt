@@ -1,5 +1,5 @@
 #+TITLE: 黃帝陰符經--
-#+DATE: 2016-06-11 12:27:30
+#+DATE: 2018-05-12 10:22:20
 #+SOURCE: github.com/kanripo/KR5i0032 master 21700908                
 黃帝陰符經
 　　　　　　　　　　　　　　　　　　蒼厓氏注

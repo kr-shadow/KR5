@@ -1,5 +1,5 @@
 #+TITLE: 正一敕壇儀-唐-
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0197 master 363fecf0                
 三儀同卷忠九
 　正一敕壇儀

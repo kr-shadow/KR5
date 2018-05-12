@@ -1,5 +1,5 @@
 #+TITLE: 太微靈書紫文仙忌真記上經-東晉-
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0180 master c3d2daef                
 三經同卷雨三
 　太微靈書紫文仙忌真記上經

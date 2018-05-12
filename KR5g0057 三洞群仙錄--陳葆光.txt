@@ -1,5 +1,5 @@
 #+TITLE: 三洞群仙錄--陳葆光
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:12
 #+SOURCE: github.com/kanripo/KR5g0057 master 0b6367b8                
 三洞羣仙録序筵一
 　　　　　　正一道士陳葆光撰集

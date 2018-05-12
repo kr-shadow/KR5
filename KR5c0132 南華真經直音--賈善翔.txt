@@ -1,5 +1,5 @@
 #+TITLE: 南華真經直音--賈善翔
-#+DATE: 2016-06-11 12:27:06
+#+DATE: 2018-05-12 10:21:54
 #+SOURCE: github.com/kanripo/KR5c0132 master f5ad132b                
 南華眞經直音(南華/邈附)聴四
 　直音序

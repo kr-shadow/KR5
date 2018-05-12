@@ -1,5 +1,5 @@
 #+TITLE: 青天歌註釋--王玠
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0138 master 20a42dae                
 青天歌註釋序
 夫青天歌者眞人丘长春之乴作也是歌演

@@ -1,5 +1,5 @@
 #+TITLE: 上清太玄鑑誡論-金-侯善淵
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0039 master 06c433af                
 上清太玄鑑誡論伯九
 　　　　姑射山神居洞太玄子撰

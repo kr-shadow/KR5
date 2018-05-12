@@ -1,5 +1,5 @@
 #+TITLE: 馬自然金丹口訣--馬自然
-#+DATE: 2016-06-11 12:27:18
+#+DATE: 2018-05-12 10:22:07
 #+SOURCE: github.com/kanripo/KR5e0059 master b7be4b2c                
 馬自然金丹口訣
 玉液還丹人人有有人會得身長久逢人莫

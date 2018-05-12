@@ -1,5 +1,5 @@
 #+TITLE: 離峰老人集--于道顯
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:13
 #+SOURCE: github.com/kanripo/KR5g0073 master dc225dbc                
 離峯老人集卷上瑟七
 　　七言律詩

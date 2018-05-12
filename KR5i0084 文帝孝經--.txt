@@ -1,5 +1,5 @@
 #+TITLE: 文帝孝經--
-#+DATE: 2016-06-11 12:27:32
+#+DATE: 2018-05-12 10:22:22
 #+SOURCE: github.com/kanripo/KR5i0084 master 9bde07ea                
 文帝孝經原序
 帝君以至孝而居文昌上位一十七世爲士大夫身現九十七

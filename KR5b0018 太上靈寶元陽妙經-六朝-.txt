@@ -1,5 +1,5 @@
 #+TITLE: 太上靈寶元陽妙經-六朝-
-#+DATE: 2016-06-11 12:26:53
+#+DATE: 2018-05-12 10:21:41
 #+SOURCE: github.com/kanripo/KR5b0018 master bc232046                
 太上靈寳元陽妙經卷之一皇一
 　　聖行品上

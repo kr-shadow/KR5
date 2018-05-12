@@ -1,5 +1,5 @@
 #+TITLE: 太上三生解冤妙經--
-#+DATE: 2016-06-11 12:26:54
+#+DATE: 2018-05-12 10:21:42
 #+SOURCE: github.com/kanripo/KR5b0071 master ea0b0d21                
 太上三生解寃妙經服九
 爾時

@@ -1,5 +1,5 @@
 #+TITLE: 皇極經世--邵雍
-#+DATE: 2016-06-11 12:27:14
+#+DATE: 2018-05-12 10:22:03
 #+SOURCE: github.com/kanripo/KR5d0063 master d2b078b9                
 皇極經世卷第一之上而一
 　　　　三川邵堯夫撰

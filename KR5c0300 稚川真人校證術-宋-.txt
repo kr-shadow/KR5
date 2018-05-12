@@ -1,5 +1,5 @@
 #+TITLE: 稚川真人校證術-宋-
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0300 master efef7862                
 稚川眞人校證術似三
 　先天圖(不録)

@@ -1,5 +1,5 @@
 #+TITLE: 七域修真證品圖-唐-
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0117 master 97e8ffcb                
 二圖同卷國五
 　七域修眞證品圖

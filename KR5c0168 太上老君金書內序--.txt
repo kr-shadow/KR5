@@ -1,5 +1,5 @@
 #+TITLE: 太上老君金書內序--
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0168 master 6a2e7f3f                
 太上老君金書内序
 老君爲道之宗體於自然在乎三清之前象

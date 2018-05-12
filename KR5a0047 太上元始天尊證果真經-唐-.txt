@@ -1,5 +1,5 @@
 #+TITLE: 太上元始天尊證果真經-唐-
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0047 master 8a41c938                
 太上元始天尊證果眞經
 爾時

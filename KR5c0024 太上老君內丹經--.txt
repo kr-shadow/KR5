@@ -1,5 +1,5 @@
 #+TITLE: 太上老君內丹經--
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0024 master 4bfb445b                
 太上老君内丹經
 老君曰夫學長生久視不死之道先須理心

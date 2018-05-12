@@ -1,5 +1,5 @@
 #+TITLE: 玄元十子圖--趙孟頫
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0164 master bbaff9d7                
 玄元十子圖序雲十一
 玄元十子筆墨髙古長春路道通寓錢塘集

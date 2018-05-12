@@ -1,5 +1,5 @@
 #+TITLE: 太平御覽--李昉
-#+DATE: 2016-06-11 12:27:22
+#+DATE: 2018-05-12 10:22:12
 #+SOURCE: github.com/kanripo/KR5g0039 master e205726f                
 太平御覽卷上楹二
 　道部

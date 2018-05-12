@@ -1,5 +1,5 @@
 #+TITLE: 元始天尊說酆都滅罪經--
-#+DATE: 2016-06-11 12:26:47
+#+DATE: 2018-05-12 10:21:34
 #+SOURCE: github.com/kanripo/KR5a0073 master c967c0bb                
 元始天尊說酆都滅罪經
 爾時

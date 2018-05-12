@@ -1,5 +1,5 @@
 #+TITLE: 悟玄篇--余洞真
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:03
 #+SOURCE: github.com/kanripo/KR5d0069 master eca6109e                
 二篇同卷別六
 　悟玄篇

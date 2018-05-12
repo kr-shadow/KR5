@@ -1,5 +1,5 @@
 #+TITLE: 漸悟集--馬丹陽
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0044 master 4bb11d98                
 漸悟集卷上弟六
 　　　　崑嵛山馬丹陽撰

@@ -1,5 +1,5 @@
 #+TITLE: 上清金母求仙上法-唐-李玄真
-#+DATE: 2016-06-11 12:26:54
+#+DATE: 2018-05-12 10:21:42
 #+SOURCE: github.com/kanripo/KR5b0075 master 87ca7e78                
 上清金母求仙上法衣八
 　　　廬山李玄眞演

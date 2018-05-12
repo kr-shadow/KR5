@@ -1,5 +1,5 @@
 #+TITLE: 大丹問答-唐-
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0339 master 6ec464c1                
 三篇同卷松五
 　大丹問答

@@ -1,5 +1,5 @@
 #+TITLE: 北帝伏魔經法建壇儀-明-盧中苓
-#+DATE: 2016-06-11 12:27:26
+#+DATE: 2018-05-12 10:22:16
 #+SOURCE: github.com/kanripo/KR5g0222 master 6f84abc0                
 北帝伏魔經法建壇儀聚九
 　　　　先天太極法師盧中苓編

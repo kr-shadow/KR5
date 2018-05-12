@@ -1,5 +1,5 @@
 #+TITLE: 大道論-宋-周固樸
-#+DATE: 2016-06-11 12:27:14
+#+DATE: 2018-05-12 10:22:03
 #+SOURCE: github.com/kanripo/KR5d0060 master fcd6dff6                
 大道論去九
 　　　　　　　周固樸著

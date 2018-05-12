@@ -1,5 +1,5 @@
 #+TITLE: 無能子--
-#+DATE: 2016-06-11 12:27:13
+#+DATE: 2018-05-12 10:22:02
 #+SOURCE: github.com/kanripo/KR5d0051 master 4fcf86f9                
 无能子序甚五
 无能子余忘形友也少博學寡欲長於窮理

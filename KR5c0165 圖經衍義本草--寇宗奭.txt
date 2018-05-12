@@ -1,5 +1,5 @@
 #+TITLE: 圖經衍義本草--寇宗奭
-#+DATE: 2016-06-11 12:27:07
+#+DATE: 2018-05-12 10:21:55
 #+SOURCE: github.com/kanripo/KR5c0165 master fce15b2a                
 圖經衍義本草卷之一資一
 　　　　宋通直郎辨驗藥材寇宗奭編撰

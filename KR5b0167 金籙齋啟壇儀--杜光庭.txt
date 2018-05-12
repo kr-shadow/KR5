@@ -1,5 +1,5 @@
 #+TITLE: 金籙齋啟壇儀--杜光庭
-#+DATE: 2016-06-11 12:26:57
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0167 master 6026d5b1                
 金籙齋啓壇儀軆一
 　　　　廣成先生杜光庭集

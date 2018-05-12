@@ -1,5 +1,5 @@
 #+TITLE: 要修科儀戒律鈔--朱君緒
-#+DATE: 2016-06-11 12:26:56
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0147 master fd17e900                
 要修科儀戒律鈔卷之一唐一
 　　　　三洞道士朱法滿撰

@@ -1,5 +1,5 @@
 #+TITLE: 太上說朝天謝雷真經--
-#+DATE: 2016-06-11 12:26:46
+#+DATE: 2018-05-12 10:21:33
 #+SOURCE: github.com/kanripo/KR5a0017 master 14f66813                
 太上説朝天謝雷眞經盈十
 昔

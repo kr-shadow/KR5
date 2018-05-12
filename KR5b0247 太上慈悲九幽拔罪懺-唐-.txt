@@ -1,5 +1,5 @@
 #+TITLE: 太上慈悲九幽拔罪懺-唐-
-#+DATE: 2016-06-11 12:26:59
+#+DATE: 2018-05-12 10:21:47
 #+SOURCE: github.com/kanripo/KR5b0247 master f52c5a73                
 太上慈悲九幽拔罪懴卷之一木一
 爾時

@@ -1,5 +1,5 @@
 #+TITLE: 文子-周-辛鈃
-#+DATE: 2016-06-11 12:27:05
+#+DATE: 2018-05-12 10:21:53
 #+SOURCE: github.com/kanripo/KR5c0118 master 8a6d6eb2                
 欽定四庫全書　　　　　子部十四
 　文子　　　　　　　　　道家𩔖

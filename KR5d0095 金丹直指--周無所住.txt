@@ -1,5 +1,5 @@
 #+TITLE: 金丹直指--周無所住
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0095 master b78a1cdf                
 金丹真指序夫八
 余著金丹十六頌直言性命之奥故以直指

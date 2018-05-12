@@ -1,5 +1,5 @@
 #+TITLE: 靈寶領教濟度金書目錄--
-#+DATE: 2016-06-11 12:26:56
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0149 master 73fb998c                
 靈寳領教濟度金書目録民一
 卷一

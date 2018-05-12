@@ -1,5 +1,5 @@
 #+TITLE: 固氣還神九轉瓊丹論-五代-
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0102 master 9fc58db0                
 固氣還神九轉瓊丹論位七
 　　　固氣還神論

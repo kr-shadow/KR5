@@ -1,5 +1,5 @@
 #+TITLE: 太清經斷穀法--
-#+DATE: 2016-06-11 12:27:09
+#+DATE: 2018-05-12 10:21:57
 #+SOURCE: github.com/kanripo/KR5c0243 master ee4babdf                
 二篇同卷臨八
 　太清經斷穀法

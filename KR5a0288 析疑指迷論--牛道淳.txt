@@ -1,5 +1,5 @@
 #+TITLE: 析疑指迷論--牛道淳
-#+DATE: 2016-06-11 12:26:52
+#+DATE: 2018-05-12 10:21:39
 #+SOURCE: github.com/kanripo/KR5a0288 master 49cfa29a                
 析疑指迷論序芥六
 神峰逍遥大師出示高論二編名曰析疑指

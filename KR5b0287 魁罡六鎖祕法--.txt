@@ -1,5 +1,5 @@
 #+TITLE: 魁罡六鎖祕法--
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0287 master b67ec949                
 魁罡六鎻秘法五四
 　　　天地變易第一

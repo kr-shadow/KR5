@@ -1,5 +1,5 @@
 #+TITLE: 三論元旨-五代-
-#+DATE: 2016-06-11 12:27:14
+#+DATE: 2018-05-12 10:22:03
 #+SOURCE: github.com/kanripo/KR5d0062 master ef56ab27                
 三論元㫖序
 夫一悟所通乃無幽而不照一迷所執亦無

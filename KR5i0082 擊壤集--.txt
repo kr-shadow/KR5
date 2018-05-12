@@ -1,5 +1,5 @@
 #+TITLE: 擊壤集--
-#+DATE: 2016-06-11 12:27:32
+#+DATE: 2018-05-12 10:22:22
 #+SOURCE: github.com/kanripo/KR5i0082 master 9331b108                
 重刋道藏輯要
 　擊壤集

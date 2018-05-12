@@ -1,5 +1,5 @@
 #+TITLE: 洞真太上倉元上錄-唐-
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:14
 #+SOURCE: github.com/kanripo/KR5g0149 master 63065ecf                
 二録同卷廣八
 　　洞眞太上倉元上錄一卷

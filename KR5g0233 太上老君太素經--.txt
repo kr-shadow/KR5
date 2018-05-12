@@ -1,5 +1,5 @@
 #+TITLE: 太上老君太素經--
-#+DATE: 2016-06-11 12:27:26
+#+DATE: 2018-05-12 10:22:16
 #+SOURCE: github.com/kanripo/KR5g0233 master d5edd620                
 太上老君太素經
 太素皓皓命之曰道太素之時神徃營之道

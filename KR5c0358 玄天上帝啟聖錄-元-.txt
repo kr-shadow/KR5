@@ -1,5 +1,5 @@
 #+TITLE: 玄天上帝啟聖錄-元-
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0358 master 13463f63                
 玄天上帝啓聖録卷之一流一
 　　　金闕化身

@@ -1,5 +1,5 @@
 #+TITLE: 太上靈寶淨明玉真樞真經--
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:05
 #+SOURCE: github.com/kanripo/KR5e0006 master fb9d4303                
 四經同卷奉三
 　太上靈寳淨明玉真樞真經

@@ -1,5 +1,5 @@
 #+TITLE: 太玄寶典-宋-
-#+DATE: 2016-06-11 12:27:14
+#+DATE: 2018-05-12 10:22:03
 #+SOURCE: github.com/kanripo/KR5d0057 master c61a7761                
 太玄寶典卷上(中下/同卷)去六
 　修眞冲寂門

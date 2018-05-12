@@ -1,5 +1,5 @@
 #+TITLE: 四聖真君靈籤--
-#+DATE: 2016-06-11 12:27:24
+#+DATE: 2018-05-12 10:22:13
 #+SOURCE: github.com/kanripo/KR5g0107 master 74f05367                
 四聖真君靈籤納一
 　　降靈勸世格言

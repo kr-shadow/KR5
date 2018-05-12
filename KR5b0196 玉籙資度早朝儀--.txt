@@ -1,5 +1,5 @@
 #+TITLE: 玉籙資度早朝儀--
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0196 master e61fa44e                
 三儀同卷率二
 　玉籙資度早朝儀

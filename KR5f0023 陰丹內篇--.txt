@@ -1,5 +1,5 @@
 #+TITLE: 陰丹內篇--
-#+DATE: 2016-06-11 12:27:20
+#+DATE: 2018-05-12 10:22:09
 #+SOURCE: github.com/kanripo/KR5f0023 master d5580e1c                
 隂丹内篇
 坎天也陽始生也離坤也隂始生也陽豈無

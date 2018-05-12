@@ -1,5 +1,5 @@
 #+TITLE: 靈臺經-唐-
-#+DATE: 2016-06-11 12:26:52
+#+DATE: 2018-05-12 10:21:40
 #+SOURCE: github.com/kanripo/KR5a0300 master 52f6302a                
 二經同卷薑九
 　靈臺經

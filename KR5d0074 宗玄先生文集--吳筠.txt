@@ -1,5 +1,5 @@
 #+TITLE: 宗玄先生文集--吳筠
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:03
 #+SOURCE: github.com/kanripo/KR5d0074 master 9a8d0a16                
 宗玄先生文集序尊三
 　　　　唐禮部侍郎權德與撰

@@ -1,5 +1,5 @@
 #+TITLE: 玉豁子丹經指要--李簡易
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:38
 #+SOURCE: github.com/kanripo/KR5a0246 master 9726ef57                
 　玉谿子丹經指要稱八
 　　　混元仙派之圖

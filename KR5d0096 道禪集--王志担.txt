@@ -1,5 +1,5 @@
 #+TITLE: 道禪集--王志担
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0096 master baf871b0                
 道禪集夫九
 　　　　金坡王真人集

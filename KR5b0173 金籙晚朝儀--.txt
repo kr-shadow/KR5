@@ -1,5 +1,5 @@
 #+TITLE: 金籙晚朝儀--
-#+DATE: 2016-06-11 12:26:57
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0173 master 949a308f                
 金籙晚朝儀
 　　　各禮師存念如法

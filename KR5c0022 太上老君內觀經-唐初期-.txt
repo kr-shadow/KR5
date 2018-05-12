@@ -1,5 +1,5 @@
 #+TITLE: 太上老君內觀經-唐初期-
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5c0022 master c972e559                
 七經同卷傷八
 　太上老君内觀經

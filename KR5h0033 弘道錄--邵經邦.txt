@@ -1,5 +1,5 @@
 #+TITLE: 弘道錄--邵經邦
-#+DATE: 2016-06-11 12:27:27
+#+DATE: 2018-05-12 10:22:17
 #+SOURCE: github.com/kanripo/KR5h0033 master 61b0cc9e                
 弘道録经一
 　仁

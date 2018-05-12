@@ -1,5 +1,5 @@
 #+TITLE: 還金述--陶埴
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0322 master 6f5943a7                
 二篇同卷如三
 　還金述

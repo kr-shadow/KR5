@@ -1,5 +1,5 @@
 #+TITLE: 釋文-周-列禦寇
-#+DATE: 2016-06-11 12:27:05
+#+DATE: 2018-05-12 10:21:53
 #+SOURCE: github.com/kanripo/KR5c0125 master 97ccc9f2                
 欽定四庫全書　　　　　子部十四
 　列子　　　　　　　　　道家𩔖

@@ -1,5 +1,5 @@
 #+TITLE: 胎息經註--幻真先生
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0131 master 9a52e6d9                
 三經同卷成三
 　胎息經註

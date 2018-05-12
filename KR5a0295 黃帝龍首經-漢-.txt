@@ -1,5 +1,5 @@
 #+TITLE: 黃帝龍首經-漢-
-#+DATE: 2016-06-11 12:26:52
+#+DATE: 2018-05-12 10:21:40
 #+SOURCE: github.com/kanripo/KR5a0295 master 3d9a327c                
 黄帝龍首經序薑三
 黄帝將上天次召其三子而告之曰吾昔受

@@ -1,5 +1,5 @@
 #+TITLE: 太上宣慈助化章--杜光庭
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:49
 #+SOURCE: github.com/kanripo/KR5b0322 master e0c57fe4                
 太上宣慈助化章卷之一毁六
 　　　　廣成先生杜光庭集

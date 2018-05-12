@@ -1,5 +1,5 @@
 #+TITLE: 紫團丹經-南宋-
-#+DATE: 2016-06-11 12:27:09
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0276 master ea35862e                
 紫團丹經夙七
 紫團眞人曰内藥之道在乎自已身中呼吸

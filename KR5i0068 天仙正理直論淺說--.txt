@@ -1,5 +1,5 @@
 #+TITLE: 天仙正理直論淺說--
-#+DATE: 2016-06-11 12:27:31
+#+DATE: 2018-05-12 10:22:21
 #+SOURCE: github.com/kanripo/KR5i0068 master ff509d82                
 重刋道藏輯要
 天仙正理直論增註

@@ -1,5 +1,5 @@
 #+TITLE: 太上洞玄靈寶智慧禮讚-明-
-#+DATE: 2016-06-11 12:27:01
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0314 master 95b6a9bb                
 三篇同卷養五
 　太上洞玄靈寳智慧禮讃

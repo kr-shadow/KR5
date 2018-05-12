@@ -1,5 +1,5 @@
 #+TITLE: 上清司命茅真君修行指迷訣-唐-
-#+DATE: 2016-06-11 12:27:09
+#+DATE: 2018-05-12 10:21:57
 #+SOURCE: github.com/kanripo/KR5c0229 master b5aab175                
 四篇同卷命六
 　上清司命茅眞君修行指迷訣

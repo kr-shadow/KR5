@@ -1,5 +1,5 @@
 #+TITLE: 太上靈寶首入淨明四規明鑑經--
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:05
 #+SOURCE: github.com/kanripo/KR5e0009 master eec193db                
 太上靈寳首入淨明四䂓明鑑經
 　　　章本章第一

@@ -1,5 +1,5 @@
 #+TITLE: 還丹肘後訣--
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0314 master d59c4a54                
 還丹肘後訣卷上斯二
 肘後訣者稚川葛眞人所撰十卷其九則論

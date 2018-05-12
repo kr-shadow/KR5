@@ -1,5 +1,5 @@
 #+TITLE: 空山先生易圖通變序--
-#+DATE: 2016-06-11 12:27:12
+#+DATE: 2018-05-12 10:22:01
 #+SOURCE: github.com/kanripo/KR5d0032 master 2aa11bac                
 空山先生易圖通變序若十一
 道德數千言吾教之所獨尊古今未有能廢

@@ -1,5 +1,5 @@
 #+TITLE: 太上靈寶補謝竈王經--
-#+DATE: 2016-06-11 12:26:54
+#+DATE: 2018-05-12 10:21:41
 #+SOURCE: github.com/kanripo/KR5b0048 master a94abb6a                
 太上靈寳補謝竈王經
 道言昔登崑崙之山有一老母獨處其中莫

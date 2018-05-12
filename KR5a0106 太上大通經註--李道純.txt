@@ -1,5 +1,5 @@
 #+TITLE: 太上大通經註--李道純
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:35
 #+SOURCE: github.com/kanripo/KR5a0106 master c95088df                
 三經同卷藏五
 　太上大通經註

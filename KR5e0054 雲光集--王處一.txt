@@ -1,5 +1,5 @@
 #+TITLE: 雲光集--王處一
-#+DATE: 2016-06-11 12:27:18
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0054 master f958f45e                
 雲光集卷之一連四
 　　　聖　水　玉　陽　王　處　一撰

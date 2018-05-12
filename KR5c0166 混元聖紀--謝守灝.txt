@@ -1,5 +1,5 @@
 #+TITLE: 混元聖紀--謝守灝
-#+DATE: 2016-06-11 12:27:07
+#+DATE: 2018-05-12 10:21:55
 #+SOURCE: github.com/kanripo/KR5c0166 master fc85ddd1                
 混元聖紀序與一
 懷英嘗爲舉子知推尊孔氏矣已而脱儒冠

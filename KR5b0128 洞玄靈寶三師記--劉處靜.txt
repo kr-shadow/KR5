@@ -1,5 +1,5 @@
 #+TITLE: 洞玄靈寶三師記--劉處靜
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0128 master a649a8a4                
 二篇同卷有二
 　洞玄靈寳三師記

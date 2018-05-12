@@ -1,5 +1,5 @@
 #+TITLE: 易因上下經--李贄
-#+DATE: 2016-06-11 12:27:28
+#+DATE: 2018-05-12 10:22:18
 #+SOURCE: github.com/kanripo/KR5h0042 master 683d1c2c                
 易因上經家一
 　　　乾　　坤　　屯

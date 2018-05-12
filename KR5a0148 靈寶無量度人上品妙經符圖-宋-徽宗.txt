@@ -1,5 +1,5 @@
 #+TITLE: 靈寶無量度人上品妙經符圖-宋-徽宗
-#+DATE: 2016-06-11 12:26:49
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0148 master 2bfbb2f6                
 靈寳无量度人經符圖序調一
 　　　　宋徽宗御製

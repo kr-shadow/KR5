@@ -1,5 +1,5 @@
 #+TITLE: 金丹賦-元-馬蒞昭
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:39
 #+SOURCE: github.com/kanripo/KR5a0262 master a6dfe008                
 金丹賦序果九
 竊聞生者道之本唯天地日月而長存教者

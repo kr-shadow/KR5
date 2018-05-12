@@ -1,5 +1,5 @@
 #+TITLE: 神仙感遇傳--杜光庭
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0297 master 79a1c251                
 神仙感遇傅卷之一恭五
 　　　　廣成先生杜(光庭)纂

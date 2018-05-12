@@ -1,5 +1,5 @@
 #+TITLE: 上清素靈上篇-六朝-
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:15
 #+SOURCE: github.com/kanripo/KR5g0180 master cf0fe1bc                
 上清素靈上篇
 太上天帝上帝太微天帝君玄丹上經青童

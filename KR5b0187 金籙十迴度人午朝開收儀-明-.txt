@@ -1,5 +1,5 @@
 #+TITLE: 金籙十迴度人午朝開收儀-明-
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0187 master d7d61993                
 金籙十廻度人午朝開收儀
 　　　宣齋意後

@@ -1,5 +1,5 @@
 #+TITLE: 道德真經次解-明-
-#+DATE: 2016-06-11 12:27:03
+#+DATE: 2018-05-12 10:21:51
 #+SOURCE: github.com/kanripo/KR5c0082 master 2d49ab9b                
 道德眞經次解序𠕏七
 述夫事有萬端義歸一揆鼎分三教理出百

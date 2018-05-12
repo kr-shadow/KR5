@@ -1,5 +1,5 @@
 #+TITLE: 道德會元--李道純
-#+DATE: 2016-06-11 12:27:03
+#+DATE: 2018-05-12 10:21:51
 #+SOURCE: github.com/kanripo/KR5c0086 master d816bedc                
 道德會元序談三
 竊謂伏羲畫易剖露先天老子著書全彰道

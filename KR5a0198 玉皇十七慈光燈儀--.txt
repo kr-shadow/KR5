@@ -1,5 +1,5 @@
 #+TITLE: 玉皇十七慈光燈儀--
-#+DATE: 2016-06-11 12:26:50
+#+DATE: 2018-05-12 10:21:37
 #+SOURCE: github.com/kanripo/KR5a0198 master e5270252                
 玉皇十七慈光燈儀爲一
 　　　入壇淨天地呪

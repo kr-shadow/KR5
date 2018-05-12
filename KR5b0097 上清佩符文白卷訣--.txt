@@ -1,5 +1,5 @@
 #+TITLE: 上清佩符文白卷訣--
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:42
 #+SOURCE: github.com/kanripo/KR5b0097 master a8a93273                
 上清佩符文白劵訣
 　　　太上甲乙入木九氣班符

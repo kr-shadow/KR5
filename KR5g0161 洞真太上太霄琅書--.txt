@@ -1,5 +1,5 @@
 #+TITLE: 洞真太上太霄琅書--
-#+DATE: 2016-06-11 12:27:25
+#+DATE: 2018-05-12 10:22:15
 #+SOURCE: github.com/kanripo/KR5g0161 master 523ca037                
 洞眞太上太霄琅書卷之一左一
 　　　　　　紫微夫人譔

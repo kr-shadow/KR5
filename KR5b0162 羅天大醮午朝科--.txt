@@ -1,5 +1,5 @@
 #+TITLE: 羅天大醮午朝科--
-#+DATE: 2016-06-11 12:26:57
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0162 master 5b8a579e                
 羅天大醮午朝科
 　　　各禮師存念如法

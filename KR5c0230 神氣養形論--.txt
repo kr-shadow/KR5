@@ -1,5 +1,5 @@
 #+TITLE: 神氣養形論--
-#+DATE: 2016-06-11 12:27:09
+#+DATE: 2018-05-12 10:21:57
 #+SOURCE: github.com/kanripo/KR5c0230 master 48793f4a                
 神氣養形論
 混元既分天地得位人與萬物各分一炁而

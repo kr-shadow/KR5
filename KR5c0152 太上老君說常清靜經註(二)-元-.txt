@@ -1,5 +1,5 @@
 #+TITLE: 太上老君說常清靜經註(二)-元-
-#+DATE: 2016-06-11 12:27:07
+#+DATE: 2018-05-12 10:21:55
 #+SOURCE: github.com/kanripo/KR5c0152 master b4da383e                
 太上老君說常清靜註是二
 　　　　無　　名　　氏註

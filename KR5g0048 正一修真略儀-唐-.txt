@@ -1,5 +1,5 @@
 #+TITLE: 正一修真略儀-唐-
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:12
 #+SOURCE: github.com/kanripo/KR5g0048 master aeeececc                
 正一修眞略儀肆一
 眞經解云籙録也修眞之士旣神室明正然

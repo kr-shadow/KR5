@@ -1,5 +1,5 @@
 #+TITLE: 丹房須知--吳悞
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0298 master 22c30e83                
 丹房須知
 　　　　髙蓋山人自然子吴悮述

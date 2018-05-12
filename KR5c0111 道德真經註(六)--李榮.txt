@@ -1,5 +1,5 @@
 #+TITLE: 道德真經註(六)--李榮
-#+DATE: 2016-06-11 12:27:04
+#+DATE: 2018-05-12 10:21:52
 #+SOURCE: github.com/kanripo/KR5c0111 master 0d1f0bb5                
 道德眞經註序絲七
 　道士臣榮言榮聞冥寂先天絡天無以昭

@@ -1,5 +1,5 @@
 #+TITLE: 武當紀勝集-元-羅霆震
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5c0363 master e50f67a2                
 武當紀勝集不四
 　　　　龍興路雲麓樵翁羅霆震譔

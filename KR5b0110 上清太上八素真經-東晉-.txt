@@ -1,5 +1,5 @@
 #+TITLE: 上清太上八素真經-東晉-
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0110 master c4eed15e                
 上清太上八素眞經遜八
 　　　太上隱書

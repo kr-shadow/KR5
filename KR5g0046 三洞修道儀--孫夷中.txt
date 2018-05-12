@@ -1,5 +1,5 @@
 #+TITLE: 三洞修道儀--孫夷中
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:12
 #+SOURCE: github.com/kanripo/KR5g0046 master aab5e52c                
 三洞修道儀楹十
 夫道以元精一氣陶育三才爰及萬物有情

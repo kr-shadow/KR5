@@ -1,5 +1,5 @@
 #+TITLE: 黃籙五老悼亡儀--
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:46
 #+SOURCE: github.com/kanripo/KR5b0214 master 25bdcb00                
 黃籙五老悼亡儀
 　　　法事如式

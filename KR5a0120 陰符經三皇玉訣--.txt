@@ -1,5 +1,5 @@
 #+TITLE: 陰符經三皇玉訣--
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:35
 #+SOURCE: github.com/kanripo/KR5a0120 master e4ea5073                
 陰符經三皇玉訣序餘一
 　　　　軒轅黄帝製

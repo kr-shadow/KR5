@@ -1,5 +1,5 @@
 #+TITLE: 九轉靈砂大丹-宋-
-#+DATE: 2016-06-11 12:27:10
+#+DATE: 2018-05-12 10:21:58
 #+SOURCE: github.com/kanripo/KR5c0291 master e87c1d7f                
 九轉靈砂大丹
 　　　炒靈砂法

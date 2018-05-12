@@ -1,5 +1,5 @@
 #+TITLE: 玉音法事-明-
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0312 master cb47c9ed                
 玉音法事卷上養一
 　　　歩虛第一(七十字)

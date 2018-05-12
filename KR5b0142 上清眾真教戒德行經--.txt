@@ -1,5 +1,5 @@
 #+TITLE: 上清眾真教戒德行經--
-#+DATE: 2016-06-11 12:26:56
+#+DATE: 2018-05-12 10:21:43
 #+SOURCE: github.com/kanripo/KR5b0142 master e01addd0                
 二經同卷陶五
 　上清衆眞教戒德行經(上下/同卷)

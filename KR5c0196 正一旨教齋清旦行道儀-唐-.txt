@@ -1,5 +1,5 @@
 #+TITLE: 正一旨教齋清旦行道儀-唐-
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0196 master 4ece355b                
 正一指教齋清旦行道儀
 　　　先發鑪

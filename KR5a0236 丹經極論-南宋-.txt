@@ -1,5 +1,5 @@
 #+TITLE: 丹經極論-南宋-
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:38
 #+SOURCE: github.com/kanripo/KR5a0236 master 42cc2114                
 二篇同卷珠七
 　丹經極論

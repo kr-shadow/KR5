@@ -1,5 +1,5 @@
 #+TITLE: 太上金書玉牒寶章儀-唐-
-#+DATE: 2016-06-11 12:27:08
+#+DATE: 2018-05-12 10:21:56
 #+SOURCE: github.com/kanripo/KR5c0203 master 7bbead8d                
 太上金書玊諜寳章儀則一
 　　　謝過祈安章

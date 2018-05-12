@@ -1,5 +1,5 @@
 #+TITLE: 萃善錄-明-
-#+DATE: 2016-06-11 12:27:12
+#+DATE: 2018-05-12 10:22:00
 #+SOURCE: github.com/kanripo/KR5c0383 master 38b795d3                
 萃善録卷上澄五
 　　　聖節祝君之詞

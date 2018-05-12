@@ -1,5 +1,5 @@
 #+TITLE: 莊列十論-宋-李元卓
-#+DATE: 2016-06-11 12:27:23
+#+DATE: 2018-05-12 10:22:13
 #+SOURCE: github.com/kanripo/KR5g0072 master 24f49514                
 莊列十論瑟六
 　　　　太學教授李元卓著

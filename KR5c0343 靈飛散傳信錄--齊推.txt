@@ -1,5 +1,5 @@
 #+TITLE: 靈飛散傳信錄--齊推
-#+DATE: 2016-06-11 12:27:11
+#+DATE: 2018-05-12 10:21:59
 #+SOURCE: github.com/kanripo/KR5c0343 master e19668b0                
 三篇同卷松七
 　靈飛散傳信録

@@ -1,5 +1,5 @@
 #+TITLE: 道德真經玄德纂疏--強思齊
-#+DATE: 2016-06-11 12:27:03
+#+DATE: 2018-05-12 10:21:51
 #+SOURCE: github.com/kanripo/KR5c0099 master 1ba5ddb7                
 道德眞經玄德纂序　　　　　　使一
 道本至無能生妙有運至無之道成妙有之

@@ -1,5 +1,5 @@
 #+TITLE: 黃帝陰符經解義--蕭真宰
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:35
 #+SOURCE: github.com/kanripo/KR5a0119 master eb1cb95e                
 黄帝陰符經解義閏十
 　　　　開州助教蕭眞宰解義

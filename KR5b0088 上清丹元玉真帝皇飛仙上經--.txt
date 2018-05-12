@@ -1,5 +1,5 @@
 #+TITLE: 上清丹元玉真帝皇飛仙上經--
-#+DATE: 2016-06-11 12:26:55
+#+DATE: 2018-05-12 10:21:42
 #+SOURCE: github.com/kanripo/KR5b0088 master 6abe8964                
 二經同卷位一
 　上清丹元玉眞帝皇飛仙上經

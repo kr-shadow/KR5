@@ -1,5 +1,5 @@
 #+TITLE: 化書--覃峭
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:03
 #+SOURCE: github.com/kanripo/KR5d0067 master 37ef514b                
 化書卷之一别二
 　　　　眞人譚景昇譔

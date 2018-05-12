@@ -1,5 +1,5 @@
 #+TITLE: 海瓊傳道集--白玉蟾
-#+DATE: 2016-06-11 12:27:24
+#+DATE: 2018-05-12 10:22:14
 #+SOURCE: github.com/kanripo/KR5g0118 master 2dca6a4e                
 海瓊傳道集序并六
 關尹子曰所可傳者只謂之事不謂之道老

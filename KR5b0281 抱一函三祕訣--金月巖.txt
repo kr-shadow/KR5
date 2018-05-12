@@ -1,5 +1,5 @@
 #+TITLE: 抱一函三祕訣--金月巖
-#+DATE: 2016-06-11 12:27:00
+#+DATE: 2018-05-12 10:21:48
 #+SOURCE: github.com/kanripo/KR5b0281 master 826e0fe2                
 抱一函三祕訣大六
 　　　　嗣全真正宗金月岩編

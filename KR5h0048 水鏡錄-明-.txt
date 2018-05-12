@@ -1,5 +1,5 @@
 #+TITLE: 水鏡錄-明-
-#+DATE: 2016-06-11 12:27:28
+#+DATE: 2018-05-12 10:22:19
 #+SOURCE: github.com/kanripo/KR5h0048 master c09cce16                
 太上感應篇冠三
 太上曰禍福無門惟人自召善惡之報如影

@@ -1,5 +1,5 @@
 #+TITLE: 陰真君還丹歌註--陳摶
-#+DATE: 2016-06-11 12:26:48
+#+DATE: 2018-05-12 10:21:36
 #+SOURCE: github.com/kanripo/KR5a0135 master fb8d4b77                
 陰眞君還丹歌注
 　　　　希夷陳摶注

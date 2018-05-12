@@ -1,5 +1,5 @@
 #+TITLE: 韓非子--韓非
-#+DATE: 2016-06-11 12:27:19
+#+DATE: 2018-05-12 10:22:08
 #+SOURCE: github.com/kanripo/KR5f0011 master 422ad603                
 韓子序匪一
 韓非者韓之諸公子也喜刑名法術之學而

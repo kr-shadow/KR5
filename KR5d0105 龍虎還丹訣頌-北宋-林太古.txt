@@ -1,5 +1,5 @@
 #+TITLE: 龍虎還丹訣頌-北宋-林太古
-#+DATE: 2016-06-11 12:27:16
+#+DATE: 2018-05-12 10:22:04
 #+SOURCE: github.com/kanripo/KR5d0105 master 64c868e3                
 龍虎還丹訣頌唱八
 　　　　谷　神　子　注

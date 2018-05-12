@@ -1,5 +1,5 @@
 #+TITLE: 太上九要心印妙經-宋-張果老
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:38
 #+SOURCE: github.com/kanripo/KR5a0226 master eaf1f9bd                
 二經同卷珠一
 　太上九要心印妙經

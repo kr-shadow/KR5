@@ -1,5 +1,5 @@
 #+TITLE: 太虛心淵篇--
-#+DATE: 2016-06-11 12:27:15
+#+DATE: 2018-05-12 10:22:03
 #+SOURCE: github.com/kanripo/KR5d0070 master 846608af                
 太虛心淵篇
 我性既肇禀受無殊圓圓大慧明明眞靈是

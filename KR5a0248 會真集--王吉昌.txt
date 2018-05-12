@@ -1,5 +1,5 @@
 #+TITLE: 會真集--王吉昌
-#+DATE: 2016-06-11 12:26:51
+#+DATE: 2018-05-12 10:21:38
 #+SOURCE: github.com/kanripo/KR5a0248 master 0cd9f7e4                
 會眞集序夜六
 夫易廣矣大矣其無體也始於一氣即道也

@@ -1,5 +1,5 @@
 #+TITLE: 洞玄金玉集--馬丹陽
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:06
 #+SOURCE: github.com/kanripo/KR5e0051 master 33f9a14e                
 洞玄金玉集卷之一氣一
 　　　　崑崙無爲清浄丹陽馬眞人述

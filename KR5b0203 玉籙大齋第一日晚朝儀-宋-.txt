@@ -1,5 +1,5 @@
 #+TITLE: 玉籙大齋第一日晚朝儀-宋-
-#+DATE: 2016-06-11 12:26:58
+#+DATE: 2018-05-12 10:21:45
 #+SOURCE: github.com/kanripo/KR5b0203 master 9a19fc80                
 玉籙大齋第一日晚朝儀
 　　　各禮師存念如法

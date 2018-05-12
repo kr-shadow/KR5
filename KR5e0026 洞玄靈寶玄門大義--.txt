@@ -1,5 +1,5 @@
 #+TITLE: 洞玄靈寶玄門大義--
-#+DATE: 2016-06-11 12:27:17
+#+DATE: 2018-05-12 10:22:05
 #+SOURCE: github.com/kanripo/KR5e0026 master 22e97764                
 洞玄靈寳玄門大義儀二
 　　　正義第一

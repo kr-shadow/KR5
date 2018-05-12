@@ -1,5 +1,5 @@
 #+TITLE: 皇明恩命世錄--
-#+DATE: 2016-06-11 12:27:27
+#+DATE: 2018-05-12 10:22:17
 #+SOURCE: github.com/kanripo/KR5h0031 master ae45d762                
 皇明恩命世録總目
 　　　卷之一
